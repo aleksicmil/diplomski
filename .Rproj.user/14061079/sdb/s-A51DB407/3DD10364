@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Read IMPI\n\nimpi <- read.csv(\"Data/IMPI_Q3_2017.csv\")\n\n# IMPI has ENSG_IDs, I need UniProt\n\nwrite.table(impi$Gene.ID, \"Data/IMPI_ENSG_ID.txt\", sep = \"\\t\", quote = F, \n            row.names = F, col.names = F)\n\n# Read CAFA files\n\ncafa_C <- read.table(\"Data/CAFA_training/trening_cafa_C_ext.txt\", header = F, \n                     sep = \"\\t\")\n\n# Divide into 4, file to large\n\nwrite.table(cafa_C[1:20694, 1], \"Data/CAFA_C_ID_1.txt\", sep = \"\\t\", quote = F, \n            row.names = F, col.names = F)\n\nwrite.table(cafa_C[275934:551866 , 1], \"Data/CAFA_C_ID_2.txt\", sep = \"\\t\", quote = F, \n            row.names = F, col.names = F)\n\nwrite.table(cafa_C[551866: 827799, 1], \"Data/CAFA_C_ID_3.txt\", sep = \"\\t\", quote = F, \n            row.names = F, col.names = F)\n\n##\n\nall_mito <- read.table(\"Data/All_mito_info.txt\", sep = \"\\t\")\n\nwrite.table(cafa_C[551866: 827799, 1], \"Data/CAFA_C_ID_3.txt\", sep = \"\\t\", quote = F, \n            row.names = F, col.names = F)\n",
+    "created" : 1514123677027.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2598531733",
+    "id" : "3DD10364",
+    "lastKnownWriteTime" : 1514123699,
+    "last_content_update" : 1514141685947,
+    "path" : "C:/Users/dell/Desktop/Diplomski_rad/Scripts/IMPI_CAFA_check.R",
+    "project_path" : "Scripts/IMPI_CAFA_check.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

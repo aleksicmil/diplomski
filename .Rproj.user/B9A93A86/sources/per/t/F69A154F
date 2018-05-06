@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517938753791.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F69A154F",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1517938753791,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B50E8D2F",
+        "caption" : "impi_protein",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=impi_protein&cache_key=B50E8D2F",
+        "displayedObservations" : "20408",
+        "environment" : "",
+        "object" : "impi_protein",
+        "preview" : "0",
+        "totalObservations" : "20408",
+        "variables" : "1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1514141690785.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F86DE4EE",
+    "lastKnownWriteTime" : 3419473787924512768,
+    "last_content_update" : 1514141690785,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3EF60711",
+        "caption" : "all_mito",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=all_mito&cache_key=3EF60711",
+        "displayedObservations" : 1549,
+        "environment" : "",
+        "object" : "all_mito",
+        "preview" : 0,
+        "totalObservations" : 1549,
+        "variables" : 53
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

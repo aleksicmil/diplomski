@@ -1,0 +1,11 @@
+impi <- read.table("Data/All_mito_info.txt", header = T, sep = "\t")
+
+cafa <- read.table("Data/CAFA_training/trening_cafa_C_ext.txt", header = F, 
+                   sep = "\t", col.names = c("Protein", "GO_annotation"))
+
+impi_protein <- read.csv("Data/impi_protein.csv", header = T)
+
+sum(impi_protein$Protein %in% cafa$Protein)
+
+str(impi_protein)
+

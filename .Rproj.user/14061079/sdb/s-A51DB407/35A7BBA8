@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1514123735840.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "35A7BBA8",
+    "lastKnownWriteTime" : 29555164612395008,
+    "last_content_update" : 1514123735840,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A32B5F46",
+        "caption" : "impi",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=impi&cache_key=A32B5F46",
+        "displayedObservations" : 1550,
+        "environment" : "",
+        "object" : "impi",
+        "preview" : 0,
+        "totalObservations" : 1550,
+        "variables" : 10
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1514135060357.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "587FD9BE",
+    "lastKnownWriteTime" : 5292976843906638626,
+    "last_content_update" : 1514135060357,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2A6D8E00",
+        "caption" : "cafa_C",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cafa_C&cache_key=2A6D8E00",
+        "displayedObservations" : 827799,
+        "environment" : "",
+        "object" : "cafa_C",
+        "preview" : 0,
+        "totalObservations" : 827799,
+        "variables" : 2
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
