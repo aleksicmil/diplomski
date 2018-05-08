@@ -1,0 +1,2 @@
+qpid	Protein	ontology	goid	desc	ARGOT_score	ARGOT_PPV	ARGOT_rank	Guess
+sp|P82921|RT21_HUMAN	P82921	CC	5739	mitochondrion	0.10363837085	0.351444111053	34	fp

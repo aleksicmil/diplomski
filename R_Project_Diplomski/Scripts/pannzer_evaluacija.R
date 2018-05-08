@@ -2,7 +2,7 @@
 # Ucitavanje PANNZer rezultata i parsovanje imena
 
 pan <- read.table("Data/pannzer_go_rezultati.txt", sep = "\t", header = T)
-pan$qpid <- as.character(panz$qpid)
+pan$qpid <- as.character(pan$qpid)
 
 ime <- function(x) {
   m1 <- gregexpr("|", x, fixed = T)
@@ -41,18 +41,47 @@ names(t.pos) <- c("Protein")
 
 f.pos <- as.data.frame(setdiff(pan.mito$Protein, radni$Protein))
 fp <- dim (f.pos)[1]
+names(f.pos) <- c("Protein")
 
 # False negatives - sve sto PANNZER nije predvido kao mito a u radnom su
 
 f.neg <- as.data.frame(setdiff(radni$Protein, pan.mito$Protein))
 fn <- dim(f.neg)[1]
-
+names(f.neg) <- c("Protein")
 # Precision, recall, i f score
 
 prec <- tp/(tp+fp)
 rec <- tp/(tp+fn)
 f <- 2*prec*rec/(prec+rec)
 
-pog <- radni[radni$Protein %in% t.pos$Protein, ]
+# ____________________________________________________________________________
 
-barplot(table(pog$Status))
+# Priprema za poredjenje algoritama
+
+# Pravi datasetove za tp, fp i fn
+
+p.tp <- radni[radni$Protein %in% t.pos$Protein, ]
+p.tp[ ,6] <- "tp"
+names(p.tp)[6] <- c("Guess")
+
+p.fn <- radni[radni$Protein %in% f.neg$Protein, ]
+p.fn[ ,6] <- "fn"
+names(p.fn)[6] <- c("Guess")
+
+p.res1 <- rbind(p.tp, p.fn)
+p.res1 <- p.res1[ ,-5]
+p.res1[, 6] <- "PANNZER"
+names(p.res1)[6] <- c("Alg")
+write.table(p.res1, "Data/pannzer_resenja_tpfn.txt", quote = F, sep = "\t", 
+            col.names = T, row.names = F)
+
+# False positivi ne postoje u radno datasetu i zato ne mogu da ih spojim sa
+# onim resenjima
+
+p.fp <- pan.mito[pan.mito$Protein %in% f.pos$Protein, ]
+p.fp[ ,9] <- "fp"
+names(p.fp)[9] <- c("Guess")
+
+write.table(p.fp, "Data/pannzer_resenja_fp.txt", sep = "\t", quote = F, 
+            col.names = T, row.names = F)
+
