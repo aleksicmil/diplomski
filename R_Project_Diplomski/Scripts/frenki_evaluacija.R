@@ -34,7 +34,7 @@ presek <- merge(frenki_proteini, cafa_proteini, by = "UniProt")
         #presek nije nula, tako da ima, moram da ih izbacim
 
 ## Iz FRENKIja brise one koji su u CAFA training setu
-frenki_pravo <- frenki[!(frenki$UniProt %in% cafa$UniProt),]
+frenki_pravo <- frenki[!(frenki$UniProt %in% cafa$UniProt), ]
 frenki_pravo$UniProt <- as.factor(as.character(frenki_pravo$UniProt))
 frenki_pravo_proteini <- as.data.frame(levels(frenki_pravo$UniProt))
   
@@ -43,8 +43,8 @@ frenki_pravo_proteini <- as.data.frame(levels(frenki_pravo$UniProt))
 # radni_u_frenkiju <- merge(frenki, radni, by.x = "UniProt", by.y = "Protein")
 # 
 # 
-# frenki_mito <- frenki[frenki$Predikcija == go,]
-# frenki_pravi_mito <- frenki_pravo[frenki_pravo$Predikcija == go,]
+frenki_mito <- frenki[frenki$Predikcija == go,]
+frenki_pravi_mito <- frenki_pravo[frenki_pravo$Predikcija == go,]
 
 ## True positives <- i FRENKI i IMPI tvrde da je protein mitohondrijalni
 tp <- merge(radni, frenki, by.x = "Protein", by.y = "UniProt")
@@ -54,7 +54,7 @@ tp1 <- merge(radni, frenki_pravo, by.x = "Protein", by.y = "UniProt")
 tp1 <- tp1[tp1$Predikcija == go,]
 
 ## False positives <- u FRENKIju je mito a nema ga u radnom
-fp <- frenki[frenki$Predikcija == go & !(frenki$UniProt %in% radni$Protein),]
+fp <- frenki[frenki$Predikcija == go & !(frenki$UniProt %in% radni$Protein), ]
 
 fp1 <- frenki_pravo[frenki_pravo$Predikcija == go & 
                   !(frenki_pravo$UniProt %in% radni$Protein),]
