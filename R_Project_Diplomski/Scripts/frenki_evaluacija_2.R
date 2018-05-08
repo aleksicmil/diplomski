@@ -76,4 +76,3 @@ prec <- tp/(tp+fp) # 0.017
 rec <- tp/(tp+fn) # 0.019
 
 f <- 2*prec*rec/(prec+rec) # 0.018
-
