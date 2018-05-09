@@ -34,25 +34,25 @@ radni <- radni[!duplicated(radni$Protein), ]
 # True positives - proteini koji su i u PANNZERu i u radnom
 
 t.pos <- as.data.frame(intersect(radni$Protein, pan.mito$Protein))
-tp <- dim(t.pos)[1]
+tp <- dim(t.pos)[1] #230
 names(t.pos) <- c("Protein")
 
 # False positives - proteini koji nisu u radnom a PANNZER je predvideo da su mito
 
 f.pos <- as.data.frame(setdiff(pan.mito$Protein, radni$Protein))
-fp <- dim (f.pos)[1]
+fp <- dim (f.pos)[1] #1
 names(f.pos) <- c("Protein")
 
 # False negatives - sve sto PANNZER nije predvido kao mito a u radnom su
 
 f.neg <- as.data.frame(setdiff(radni$Protein, pan.mito$Protein))
-fn <- dim(f.neg)[1]
+fn <- dim(f.neg)[1] #2215
 names(f.neg) <- c("Protein")
 # Precision, recall, i f score
 
-prec <- tp/(tp+fp)
-rec <- tp/(tp+fn)
-f <- 2*prec*rec/(prec+rec)
+prec <- tp/(tp+fp) # 0.99
+rec <- tp/(tp+fn) # 0.094
+f <- 2*prec*rec/(prec+rec) #0.17
 
 # ____________________________________________________________________________
 
