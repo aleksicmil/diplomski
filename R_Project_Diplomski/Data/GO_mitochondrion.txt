@@ -1,0 +1,1061 @@
+UniProtKB:Q13423	NAD(P) transhydrogenase, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR10160		GO_REF:0000054	20100607
+UniProtKB:Q53R41	FAST kinase domain-containing protein 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21228		PMID:20869947	20101208
+UniProtKB:Q53R41	FAST kinase domain-containing protein 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21228		PMID:28335001	20171116
+UniProtKB:Q6IMN6	Caprin-2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22922		PMID:14593112	20070927
+UniProtKB:Q6IMN6	Caprin-2		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR22922		PMID:14593112	20091021
+UniProtKB:Q9NZJ6	Ubiquinone biosynthesis O-methyltransferase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23134		PMID:10777520	20140814
+UniProtKB:Q9NZJ4	Sacsin		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR15600		PMID:19208651	20091204
+UniProtKB:Q9NZI6	Transcription factor CP2-like protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11037		GO_REF:0000052	20151016
+UniProtKB:Q9BWM7	Sideroflexin-3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11153		GO_REF:0000052	20120912
+UniProtKB:Q9P0W8	Spermatogenesis-associated protein 7		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32359		GO_REF:0000052	20111111
+UniProtKB:Q9H2W6	39S ribosomal protein L46, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13124		GO_REF:0000052	20120912
+UniProtKB:Q70HW3	S-adenosylmethionine mitochondrial carrier protein		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20131205
+UniProtKB:Q9BWH2	FUN14 domain-containing protein 2		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR21346		GO_REF:0000054	20100607
+UniProtKB:Q9BWH2	FUN14 domain-containing protein 2		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR21346		PMID:20833797	20140128
+UniProtKB:P61221	ATP-binding cassette sub-family E member 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR19248		PMID:11585831	20040806
+UniProtKB:O15498	Synaptobrevin homolog YKT6		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21136		GO_REF:0000052	20101115
+UniProtKB:Q9NYY8	FAST kinase domain-containing protein 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21228		GO_REF:0000052	20151016
+UniProtKB:Q9NYY8	FAST kinase domain-containing protein 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21228		PMID:20869947	20101208
+UniProtKB:O14874	[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11947		GO_REF:0000052	20130311
+UniProtKB:O14874	[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11947		PMID:20833797	20140128
+UniProtKB:O15446	DNA-directed RNA polymerase I subunit RPA34		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15484		GO_REF:0000052	20161204
+UniProtKB:P04181	Ornithine aminotransferase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11986		GO_REF:0000052	20151016
+UniProtKB:P04179	Superoxide dismutase [Mn], mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11404		PMID:12551919	20080915
+UniProtKB:O15417	Trinucleotide repeat-containing gene 18 protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12505		GO_REF:0000052	20100326
+UniProtKB:Q9NZ45	CDGSH iron-sulfur domain-containing protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13680		GO_REF:0000052	20151016
+UniProtKB:Q9NZ45	CDGSH iron-sulfur domain-containing protein 1		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR13680		PMID:20833797	20140128
+UniProtKB:Q96TC7	Regulator of microtubule dynamics protein 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR16056		GO_REF:0000052	20131205
+UniProtKB:Q53S33	BolA-like protein 3		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12735		PMID:22746225	20170207
+UniProtKB:Q9NYJ1	Cytochrome c oxidase assembly factor 4 homolog, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13639		PMID:23676665	20180114
+UniProtKB:Q9BVS5	tRNA (adenine(58)-N(1))-methyltransferase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12133		PMID:23097428	20121101
+UniProtKB:Q9HCN4	GPN-loop GTPase 1		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20111111
+UniProtKB:Q9HCM9	E3 ubiquitin-protein ligase TRIM39		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR24103		PMID:19100260	20140217
+UniProtKB:P51553	Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11835		GO_REF:0000052	20101115
+UniProtKB:P51553	Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR11835		GO_REF:0000054	20100607
+UniProtKB:Q8IWL3	Iron-sulfur cluster co-chaperone protein HscB, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14021		GO_REF:0000052	20151016
+UniProtKB:Q8IWL3	Iron-sulfur cluster co-chaperone protein HscB, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14021		PMID:20668094	20110614
+UniProtKB:P51530	DNA replication ATP-dependent helicase/nuclease DNA2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10887		GO_REF:0000052	20161204
+UniProtKB:P31040	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11632		GO_REF:0000052	20151016
+UniProtKB:P31040	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11632		PMID:16826196	20070226
+UniProtKB:P31040	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11632		PMID:7550341	20060419
+UniProtKB:Q15070	Mitochondrial inner membrane protein OXA1L		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12428		GO_REF:0000052	20080818
+UniProtKB:Q8IWA4	Mitofusin-1		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10465		PMID:20871098	20150202
+UniProtKB:Q8IWA4	Mitofusin-1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10465		PMID:27920125	20170209
+UniProtKB:Q86WG3	Caytaxin	not|colocalizes_with	GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12112		PMID:16899818	20120918
+UniProtKB:Q15046	Lysine--tRNA ligase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22594		PMID:10952987	20031216
+UniProtKB:O00198	Activator of apoptosis harakiri		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15056		PMID:15031724	20111201
+UniProtKB:P41247	Patatin-like phospholipase domain-containing protein 4		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12406		PMID:26741492	20160613
+UniProtKB:P0CG47	Polyubiquitin-B		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR10666		PMID:17571083	20140903
+UniProtKB:O00165	HCLS1-associated protein X-1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14938		GO_REF:0000052	20161204
+UniProtKB:O00165	HCLS1-associated protein X-1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14938		PMID:9058808	20090706
+UniProtKB:P36551	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10755		GO_REF:0000052	20131205
+UniProtKB:Q9HC36	rRNA methyltransferase 3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12029		GO_REF:0000052	20100326
+UniProtKB:Q9HAC7	Succinate--hydroxymethylglutarate CoA-transferase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11837		PMID:23893049	20130902
+UniProtKB:P14735	Insulin-degrading enzyme		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11851		PMID:15285718	20120713
+UniProtKB:Q8TAE8	Growth arrest and DNA damage-inducible proteins-interacting protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31761		GO_REF:0000052	20131205
+UniProtKB:Q8TAA5	GrpE protein homolog 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21237		GO_REF:0000052	20090616
+UniProtKB:Q9BZE1	39S ribosomal protein L37, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15889		GO_REF:0000052	20131205
+UniProtKB:O60260	E3 ubiquitin-protein ligase parkin		GO:0005739		UniProt	NCBITaxon:9606	IMP		PANTHER:PTHR11685		PMID:19029340	20101122
+UniProtKB:O60260	E3 ubiquitin-protein ligase parkin		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11685		PMID:19229105	20141217
+UniProtKB:O60260	E3 ubiquitin-protein ligase parkin		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11685		PMID:20889974	20110517
+UniProtKB:O60260	E3 ubiquitin-protein ligase parkin		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11685		PMID:23933751	20140203
+UniProtKB:O60260	E3 ubiquitin-protein ligase parkin		GO:0005739		AgBase	NCBITaxon:9606	IDA		PANTHER:PTHR11685		PMID:25244949	20150129
+UniProtKB:O60260	E3 ubiquitin-protein ligase parkin	colocalizes_with	GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""CL:0000700"", ""label"": ""dopaminergic neuron""}}"	ParkinsonsUK-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR11685		PMID:21508222	20150223
+UniProtKB:A0A087X1C5	Putative cytochrome P450 2D7		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:18838503	20150123
+UniProtKB:Q6NUK1	Calcium-binding mitochondrial carrier protein SCaMC-1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20151016
+UniProtKB:Q6NUK1	Calcium-binding mitochondrial carrier protein SCaMC-1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:22015608	20140106
+UniProtKB:P18859	ATP synthase-coupling factor 6, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12441		GO_REF:0000052	20101115
+UniProtKB:P18859	ATP synthase-coupling factor 6, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR12441		PMID:20833797	20140128
+UniProtKB:Q13686	Nucleic acid dioxygenase ALKBH1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16557		PMID:18603530	20100429
+UniProtKB:Q13686	Nucleic acid dioxygenase ALKBH1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16557		PMID:27497299	20170110
+UniProtKB:Q5SXM8	DNL-type zinc finger protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR20922		GO_REF:0000052	20151016
+UniProtKB:Q13637	Ras-related protein Rab-32		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR24073		PMID:25767741	20160627
+UniProtKB:Q6SZW1	Sterile alpha and TIR motif-containing protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:22145856	20121127
+UniProtKB:P83111	Serine beta-lactamase-like protein LACTB, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22935		GO_REF:0000052	20111111
+UniProtKB:P83111	Serine beta-lactamase-like protein LACTB, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR22935		PMID:20833797	20140128
+UniProtKB:P83111	Serine beta-lactamase-like protein LACTB, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22935		PMID:28329758	20170428
+UniProtKB:A1L188	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 8		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:27499296	20160923
+UniProtKB:Q9BYV1	Alanine--glyoxylate aminotransferase 2, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11986		PMID:20018850	20120523
+UniProtKB:Q9BYV1	Alanine--glyoxylate aminotransferase 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11986		PMID:24586340	20150302
+UniProtKB:Q5T9A4	ATPase family AAA domain-containing protein 3B		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23075		GO_REF:0000052	20141106
+UniProtKB:Q03393	6-pyruvoyl tetrahydrobiopterin synthase		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR12589		GO_REF:0000054	20100607
+UniProtKB:P14618	Pyruvate kinase PKM		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11817		PMID:20833797	20140128
+UniProtKB:O00116	Alkyldihydroxyacetonephosphate synthase, peroxisomal		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11748		PMID:20833797	20140128
+UniProtKB:Q8IVS2	Malonyl-CoA-acyl carrier protein transacylase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20161204
+UniProtKB:Q8IVS2	Malonyl-CoA-acyl carrier protein transacylase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:12882974	20040818
+UniProtKB:Q8TC76	Protein FAM110B		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32273		GO_REF:0000052	20080818
+UniProtKB:Q92552	28S ribosomal protein S27, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21393		PMID:22841715	20170728
+UniProtKB:P04637	Cellular tumor antigen p53		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11447		PMID:12667443	20040614
+UniProtKB:P04637	Cellular tumor antigen p53		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR11447		PMID:24101517	20140915
+UniProtKB:Q92523	Carnitine O-palmitoyltransferase 1, muscle isoform		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR22589		PMID:20833797	20140128
+UniProtKB:Q9HBH1	Peptide deformylase, mitochondrial		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR10458		PMID:15489958	20060324
+UniProtKB:Q86VP3	Phosphofurin acidic cluster sorting protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13280		GO_REF:0000052	20161204
+UniProtKB:Q8IVG9	Humanin		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:15567815	20060724
+UniProtKB:Q86VD7	Mitochondrial coenzyme A transporter SLC25A42		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20120912
+UniProtKB:Q86VD7	Mitochondrial coenzyme A transporter SLC25A42		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:19429682	20120507
+UniProtKB:P56962	Syntaxin-17		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR19957		PMID:23217709	20130415
+UniProtKB:P56962	Syntaxin-17	not	GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR19957		PMID:10930465	20130416
+UniProtKB:P61604	10 kDa heat shock protein, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10772		PMID:10205158	20060221
+UniProtKB:Q6DKK2	Tetratricopeptide repeat protein 19, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13143		GO_REF:0000052	20131205
+UniProtKB:Q9HAV7	GrpE protein homolog 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21237		GO_REF:0000052	20151016
+UniProtKB:Q8IUX1	Complex I assembly factor TMEM126B, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR16296		GO_REF:0000052	20111111
+UniProtKB:Q13794	Phorbol-12-myristate-13-acetate-induced protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14299		PMID:14500711	20110314
+UniProtKB:Q13794	Phorbol-12-myristate-13-acetate-induced protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14299		PMID:15102863	20110316
+UniProtKB:Q13794	Phorbol-12-myristate-13-acetate-induced protein 1		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR14299		PMID:15705586	20070302
+UniProtKB:Q13794	Phorbol-12-myristate-13-acetate-induced protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14299		PMID:21145489	20110311
+UniProtKB:P09669	Cytochrome c oxidase subunit 6C		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12916		GO_REF:0000052	20111111
+UniProtKB:Q96T66	Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12039		GO_REF:0000052	20161204
+UniProtKB:Q96T66	Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 3		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12039		PMID:16118205	20090316
+UniProtKB:Q68CZ6	HAUS augmin-like complex subunit 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR19378		GO_REF:0000052	20171201
+UniProtKB:P09622	Dihydrolipoyl dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22912		GO_REF:0000052	20131205
+UniProtKB:P09622	Dihydrolipoyl dehydrogenase, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR22912		PMID:20833797	20140128
+UniProtKB:P09622	Dihydrolipoyl dehydrogenase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22912		PMID:29211711	20180123
+UniProtKB:P27105	Erythrocyte band 7 integral membrane protein		GO:0005739		AgBase	NCBITaxon:9606	IDA		PANTHER:PTHR10264		PMID:25262680	20150120
+UniProtKB:P24539	ATP synthase F(0) complex subunit B1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12733		GO_REF:0000052	20141106
+UniProtKB:P24539	ATP synthase F(0) complex subunit B1, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR12733		PMID:20833797	20140128
+UniProtKB:Q13268	Dehydrogenase/reductase SDR family member 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24322		GO_REF:0000052	20151016
+UniProtKB:Q13268	Dehydrogenase/reductase SDR family member 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24322		PMID:19443906	20091005
+UniProtKB:Q01860	POU domain, class 5, transcription factor 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11636		GO_REF:0000052	20161204
+UniProtKB:Q13227	G protein pathway suppressor 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22654		PMID:29499132	20180320
+UniProtKB:Q01831	DNA repair protein complementing XP-C cells		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12135		GO_REF:0000052	20161204
+UniProtKB:P46199	Translation initiation factor IF-2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23115		GO_REF:0000052	20131205
+UniProtKB:Q6PI48	Aspartate--tRNA ligase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22594		GO_REF:0000052	20161204
+UniProtKB:Q9BV79	Enoyl-[acyl-carrier-protein] reductase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11695		GO_REF:0000052	20111111
+UniProtKB:Q9BV79	Enoyl-[acyl-carrier-protein] reductase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11695		PMID:12654921	20050518
+UniProtKB:Q9BUT1	3-hydroxybutyrate dehydrogenase type 2	not	GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR24321		PMID:16380372	20060116
+UniProtKB:Q9BUR5	MICOS complex subunit MIC26		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14564		GO_REF:0000052	20080818
+UniProtKB:Q9BUR5	MICOS complex subunit MIC26		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR14564		PMID:20833797	20140128
+UniProtKB:Q9BUR5	MICOS complex subunit MIC26		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR14564		PMID:24743151	20141001
+UniProtKB:Q9BUR5	MICOS complex subunit MIC26		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14564		PMID:25781180	20150615
+UniProtKB:Q9BYG8	Gasdermin-C		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR16399		GO_REF:0000052	20100326
+UniProtKB:P09912	Interferon alpha-inducible protein 6		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR16932		PMID:15685448	20060327
+UniProtKB:Q9BYD6	39S ribosomal protein L1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23105		GO_REF:0000052	20151016
+UniProtKB:Q9BYD2	39S ribosomal protein L9, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21368		GO_REF:0000052	20080818
+UniProtKB:Q9BYC9	39S ribosomal protein L20, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20151016
+UniProtKB:Q9BYC2	Succinyl-CoA:3-ketoacid coenzyme A transferase 2, mitochondrial		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR13707		PMID:11756565	20030801
+UniProtKB:Q13546	Receptor-interacting serine/threonine-protein kinase 1		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR23257		PMID:16507998	20090317
+UniProtKB:Q9P015	39S ribosomal protein L15, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR12934		GO_REF:0000054	20100607
+UniProtKB:Q9P035	Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11035		GO_REF:0000052	20151016
+UniProtKB:Q9BXM7	Serine/threonine-protein kinase PINK1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22972		PMID:15087508	20080626
+UniProtKB:Q9BXM7	Serine/threonine-protein kinase PINK1, mitochondrial		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR22972		PMID:15824318	20060111
+UniProtKB:Q9BXM7	Serine/threonine-protein kinase PINK1, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0000955"", ""label"": ""brain""}}"	ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR22972		PMID:16702191	20140722
+UniProtKB:Q9BXM7	Serine/threonine-protein kinase PINK1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22972		PMID:19229105	20141217
+UniProtKB:Q9BXM7	Serine/threonine-protein kinase PINK1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22972		PMID:20798600	20101122
+UniProtKB:Q9BXM7	Serine/threonine-protein kinase PINK1, mitochondrial		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR22972		PMID:21138942	20140722
+UniProtKB:Q9BXM7	Serine/threonine-protein kinase PINK1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22972		PMID:23933751	20140203
+UniProtKB:Q9BXM7	Serine/threonine-protein kinase PINK1, mitochondrial	colocalizes_with	GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""GO:0098780"", ""label"": ""response to mitochondrial depolarisation""}}"	ParkinsonsUK-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR22972		PMID:24184327	20151116
+UniProtKB:P09874	Poly [ADP-ribose] polymerase 1		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR15447		PMID:25378300	20150326
+UniProtKB:Q5T890	DNA excision repair protein ERCC-6-like 2		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""GOREL:0000032"", ""label"": ""exists_during""}], ""id"": ""GO:0006974"", ""label"": ""cellular response to DNA damage stimulus""}}|{""relationship"": {""relation"": [{""id"": ""GOREL:0000032"", ""label"": ""exists_during""}], ""id"": ""GO:0034614"", ""label"": ""cellular response to reactive oxygen species""}}"	UniProt	NCBITaxon:9606	IMP		PANTHER:PTHR10799		PMID:24507776	20170630
+UniProtKB:Q12931	Heat shock protein 75 kDa, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11528		GO_REF:0000052	20120912
+UniProtKB:Q12931	Heat shock protein 75 kDa, mitochondrial		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11528		PMID:17579517	20140701
+UniProtKB:P15104	Glutamine synthetase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR20852		GO_REF:0000052	20161204
+UniProtKB:P30084	Enoyl-CoA hydratase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11941		GO_REF:0000052	20100326
+UniProtKB:P45880	Voltage-dependent anion-selective channel protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11743		GO_REF:0000052	20110516
+UniProtKB:P45880	Voltage-dependent anion-selective channel protein 2		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11743		PMID:20833797	20140128
+UniProtKB:Q12906	Interleukin enhancer-binding factor 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10910		GO_REF:0000052	20131205
+UniProtKB:P30048	Thioredoxin-dependent peroxide reductase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10681		PMID:17893648	20080703
+UniProtKB:P30048	Thioredoxin-dependent peroxide reductase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10681		PMID:18262354	20080909
+UniProtKB:P30048	Thioredoxin-dependent peroxide reductase, mitochondrial		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10681		PMID:21850687	20140618
+UniProtKB:P30044	Peroxiredoxin-5, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10430		GO_REF:0000052	20131205
+UniProtKB:P30044	Peroxiredoxin-5, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10430		PMID:10521424	20060418
+UniProtKB:P30044	Peroxiredoxin-5, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10430		PMID:10751410	20120305
+UniProtKB:P30044	Peroxiredoxin-5, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10430		PMID:18262354	20080909
+UniProtKB:P45844	ATP-binding cassette sub-family G member 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR19241		PMID:22042635	20120618
+UniProtKB:P56134	ATP synthase subunit f, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13080		GO_REF:0000052	20171201
+UniProtKB:Q63ZY3	KN motif and ankyrin repeat domain-containing protein 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24168		PMID:22371500	20120712
+UniProtKB:Q9NSK7	Protein C19orf12		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR31493		PMID:23857908	20140307
+UniProtKB:Q9NSK7	Protein C19orf12		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR31493		PMID:26136767	20160810
+UniProtKB:Q9BQ95	Evolutionarily conserved signaling intermediate in Toll pathway, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13113		PMID:17344420	20070625
+UniProtKB:P21980	Protein-glutamine gamma-glutamyltransferase 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11590		PMID:24349085	20140603
+UniProtKB:P36776	Lon protease homolog, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10046		GO_REF:0000052	20151016
+UniProtKB:P36776	Lon protease homolog, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10046		PMID:8248235	20090212
+UniProtKB:P21953	2-oxoisovalerate dehydrogenase subunit beta, mitochondrial		GO:0005739		HGNC	NCBITaxon:9606	IMP		PANTHER:PTHR11624		PMID:2022752	20070424
+UniProtKB:O75362	Zinc finger protein 217		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23233		GO_REF:0000052	20161204
+UniProtKB:P21912	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11921		GO_REF:0000052	20151016
+UniProtKB:Q8N357	Solute carrier family 35 member F6		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13146		PMID:19154410	20130110
+UniProtKB:Q96BY2	Modulator of apoptosis 1		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR23095		PMID:19100260	20140217
+UniProtKB:Q8IW03	Seven in absentia homolog 3		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10315		PMID:24270810	20150422
+UniProtKB:Q9Y399	28S ribosomal protein S2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12534		GO_REF:0000052	20141106
+UniProtKB:Q7L8L6	FAST kinase domain-containing protein 5, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21228		PMID:20869947	20101208
+UniProtKB:Q92581	Sodium/hydrogen exchanger 6	not	GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10110		PMID:11940519	20090519
+UniProtKB:Q8N2F6	Armadillo repeat-containing protein 10		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15712		GO_REF:0000052	20080205
+UniProtKB:Q9HC96	Calpain-10		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10183		PMID:16790502	20140213
+UniProtKB:Q00325	Phosphate carrier protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20151016
+UniProtKB:Q96B49	Mitochondrial import receptor subunit TOM6 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15527		GO_REF:0000052	20080818
+UniProtKB:Q07021	Complement component 1 Q subcomponent-binding protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10826		GO_REF:0000052	20101115
+UniProtKB:Q07021	Complement component 1 Q subcomponent-binding protein, mitochondrial		GO:0005739		CACAO	NCBITaxon:9606	IDA		PANTHER:PTHR10826		PMID:11083468	20141123
+UniProtKB:Q07021	Complement component 1 Q subcomponent-binding protein, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10826		PMID:19164550	20121126
+UniProtKB:P53701	Cytochrome c-type heme lyase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12743		GO_REF:0000052	20131205
+UniProtKB:P53701	Cytochrome c-type heme lyase		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR12743		PMID:11827457	20040128
+UniProtKB:Q02218	2-oxoglutarate dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23152		GO_REF:0000052	20100326
+UniProtKB:Q02218	2-oxoglutarate dehydrogenase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23152		PMID:29211711	20180123
+UniProtKB:P23786	Carnitine O-palmitoyltransferase 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22589		GO_REF:0000052	20111111
+UniProtKB:O14561	Acyl carrier protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR20863		GO_REF:0000052	20161204
+UniProtKB:Q9NX14	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 11, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13327		GO_REF:0000052	20111111
+UniProtKB:Q9NX18	Succinate dehydrogenase assembly factor 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12469		GO_REF:0000052	20161204
+UniProtKB:Q9NX18	Succinate dehydrogenase assembly factor 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12469		PMID:19628817	20090727
+UniProtKB:O14548	Cytochrome c oxidase subunit 7A-related protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10510		GO_REF:0000052	20141106
+UniProtKB:Q9NWS8	Required for meiotic nuclear division protein 1 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR16255		GO_REF:0000052	20130311
+UniProtKB:Q9NWS8	Required for meiotic nuclear division protein 1 homolog		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16255		PMID:25604853	20150923
+UniProtKB:Q9NWT8	Aurora kinase A-interacting protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32035		GO_REF:0000052	20101115
+UniProtKB:Q8N9F0	N-acetylaspartate synthetase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13947		GO_REF:0000052	20131205
+UniProtKB:Q9NX63	MICOS complex subunit MIC19		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR21588		PMID:20833797	20140128
+UniProtKB:Q9NX63	MICOS complex subunit MIC19		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21588		PMID:25781180	20150615
+UniProtKB:Q9NX63	MICOS complex subunit MIC19		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21588		PMID:25997101	20150615
+UniProtKB:Q9GZT6	Coiled-coil domain-containing protein 90B, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14360		GO_REF:0000052	20101115
+UniProtKB:Q9GZT6	Coiled-coil domain-containing protein 90B, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR14360		GO_REF:0000054	20100607
+UniProtKB:Q9UKN8	General transcription factor 3C polypeptide 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15496		GO_REF:0000052	20151016
+UniProtKB:Q53T59	HCLS1-binding protein 3		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR14431		PMID:21699750	20150901
+UniProtKB:Q9BV35	Calcium-binding mitochondrial carrier protein SCaMC-3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20161204
+UniProtKB:Q9P2R7	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11815		GO_REF:0000052	20141106
+UniProtKB:Q9P2R7	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11815		PMID:10727444	20061003
+UniProtKB:Q9P2R7	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11815		PMID:20833797	20140128
+UniProtKB:Q8N8R3	Mitochondrial basic amino acids transporter		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:19287344	20170628
+UniProtKB:Q02127	Dihydroorotate dehydrogenase (quinone), mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11938		GO_REF:0000052	20141106
+UniProtKB:Q13342	Nuclear body protein SP140		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13711		GO_REF:0000052	20151016
+UniProtKB:Q9BVL4	Selenoprotein O		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12153		PMID:24751718	20170213
+UniProtKB:Q6UWS5	Protein PET117 homolog, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:22356826	20120503
+UniProtKB:P36873	Serine/threonine-protein phosphatase PP1-gamma catalytic subunit		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11668		PMID:17936702	20111214
+UniProtKB:Q3SY69	Mitochondrial 10-formyltetrahydrofolate dehydrogenase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11699		GO_REF:0000052	20111111
+UniProtKB:Q8TEY5	Cyclic AMP-responsive element-binding protein 3-like protein 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22952		GO_REF:0000052	20110516
+UniProtKB:O00429	Dynamin-1-like protein		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11566		PMID:11514614	20160823
+UniProtKB:O00429	Dynamin-1-like protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11566		PMID:22265414	20131010
+UniProtKB:O00429	Dynamin-1-like protein		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR11566		PMID:23349293	20130529
+UniProtKB:O00429	Dynamin-1-like protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11566		PMID:23530241	20130910
+UniProtKB:O00429	Dynamin-1-like protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11566		PMID:23921378	20130909
+UniProtKB:O00429	Dynamin-1-like protein		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR11566		PMID:24599962	20150415
+UniProtKB:O00429	Dynamin-1-like protein		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11566		PMID:26618722	20161005
+UniProtKB:O00411	DNA-directed RNA polymerase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10102		GO_REF:0000052	20131205
+UniProtKB:O00411	DNA-directed RNA polymerase, mitochondrial		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR10102		PMID:17337445	20071018
+UniProtKB:Q6NZI2	Caveolae-associated protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15240		PMID:15242332	20070405
+UniProtKB:Q8IYB8	ATP-dependent RNA helicase SUPV3L1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12131		GO_REF:0000052	20161204
+UniProtKB:Q8IYB8	ATP-dependent RNA helicase SUPV3L1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12131		PMID:17352692	20110718
+UniProtKB:Q8IYB8	ATP-dependent RNA helicase SUPV3L1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12131		PMID:19864255	20110719
+UniProtKB:O96008	Mitochondrial import receptor subunit TOM40 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10802		GO_REF:0000052	20141106
+UniProtKB:O96008	Mitochondrial import receptor subunit TOM40 homolog	not	GO:0005739		BHF-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR10802		PMID:11745481	20081105
+UniProtKB:K7EMT4	Uncharacterized protein		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20151016
+UniProtKB:Q9Y676	28S ribosomal protein S18b, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13329		GO_REF:0000052	20161204
+UniProtKB:H0YIV9	Uncharacterized protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15004		GO_REF:0000052	20141106
+UniProtKB:Q9Y696	Chloride intracellular channel protein 4		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11260		PMID:14569596	20100705
+UniProtKB:Q9Y697	Cysteine desulfurase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11601		PMID:26702583	20171102
+UniProtKB:Q9Y5Z4	Heme-binding protein 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11220		PMID:17098234	20140403
+UniProtKB:Q7L2E3	Putative ATP-dependent RNA helicase DHX30		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR18934		GO_REF:0000052	20101115
+UniProtKB:Q96E29	Transcription termination factor 3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13068		GO_REF:0000052	20101115
+UniProtKB:Q96E29	Transcription termination factor 3, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13068		PMID:17662942	20100929
+UniProtKB:Q6FI81	Anamorsin		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13273		GO_REF:0000052	20151016
+UniProtKB:Q99798	Aconitate hydratase, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11670		PMID:20833797	20140128
+UniProtKB:Q99797	Mitochondrial intermediate peptidase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11804		GO_REF:0000052	20111111
+UniProtKB:Q8WV93	AFG1-like ATPase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12169		PMID:27323408	20170522
+UniProtKB:P51970	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13344		GO_REF:0000052	20111111
+UniProtKB:P51970	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13344		PMID:23676665	20180114
+UniProtKB:Q8WV60	Pentatricopeptide repeat-containing protein 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14700		PMID:18729827	20120914
+UniProtKB:Q99757	Thioredoxin, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10438		GO_REF:0000052	20131205
+UniProtKB:Q99757	Thioredoxin, mitochondrial		GO:0005739		CACAO	NCBITaxon:9606	IDA		PANTHER:PTHR10438		PMID:12032145	20120331
+UniProtKB:Q99747	Gamma-soluble NSF attachment protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13768		PMID:11278501	20031216
+UniProtKB:Q99714	3-hydroxyacyl-CoA dehydrogenase type-2		GO:0005739		CAFA	NCBITaxon:9606	IDA		PANTHER:PTHR24316		PMID:23042678	20160726
+UniProtKB:Q7L3V2	Protein Bop		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15503		PMID:23055042	20121214
+UniProtKB:Q5RI15	Cytochrome c oxidase assembly protein COX20, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31586		GO_REF:0000052	20111111
+UniProtKB:Q99551	Transcription termination factor 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15437		GO_REF:0000052	20151016
+UniProtKB:Q92833	Protein Jumonji		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10694		GO_REF:0000052	20151016
+UniProtKB:Q8WYQ3	Coiled-coil-helix-coiled-coil-helix domain-containing protein 10, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13523		GO_REF:0000052	20131205
+UniProtKB:Q8WYQ3	Coiled-coil-helix-coiled-coil-helix domain-containing protein 10, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR13523		PMID:20888800	20120716
+UniProtKB:Q99595	Mitochondrial import inner membrane translocase subunit Tim17-A		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10485		GO_REF:0000052	20151016
+UniProtKB:P11310	Medium-chain specific acyl-CoA dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10909		GO_REF:0000052	20080818
+UniProtKB:P11310	Medium-chain specific acyl-CoA dehydrogenase, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR10909		GO_REF:0000054	20100607
+UniProtKB:Q9Y512	Sorting and assembly machinery component 50 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12815		GO_REF:0000052	20101115
+UniProtKB:Q9Y512	Sorting and assembly machinery component 50 homolog		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR12815		PMID:15644312	20081105
+UniProtKB:Q9Y512	Sorting and assembly machinery component 50 homolog		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR12815		PMID:20833797	20140128
+UniProtKB:Q9Y512	Sorting and assembly machinery component 50 homolog		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12815		PMID:25781180	20150615
+UniProtKB:P48735	Isocitrate dehydrogenase [NADP], mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11822		GO_REF:0000052	20090616
+UniProtKB:P48735	Isocitrate dehydrogenase [NADP], mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11822		PMID:20833797	20140128
+UniProtKB:Q7L592	Protein arginine methyltransferase NDUFAF7, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12049		PMID:20406883	20100928
+UniProtKB:Q7L592	Protein arginine methyltransferase NDUFAF7, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12049		PMID:24089531	20160923
+UniProtKB:Q7L592	Protein arginine methyltransferase NDUFAF7, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12049		PMID:24838397	20160923
+UniProtKB:P48728	Aminomethyltransferase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13847		GO_REF:0000052	20161204
+UniProtKB:P31415	Calsequestrin-1		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR10033		PMID:20833797	20140128
+UniProtKB:Q9Y6M9	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12868		GO_REF:0000052	20110516
+UniProtKB:Q6UXV4	MICOS complex subunit MIC27		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14564		GO_REF:0000052	20080818
+UniProtKB:Q6UXV4	MICOS complex subunit MIC27		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14564		PMID:25781180	20150615
+UniProtKB:Q6UXV4	MICOS complex subunit MIC27		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14564		PMID:25997101	20150615
+UniProtKB:Q8IZY5	BH3-like motif-containing cell death inducer		GO:0005739		UniProt	NCBITaxon:9606	IMP				PMID:15069058	20170929
+UniProtKB:P36969	Phospholipid hydroperoxide glutathione peroxidase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11592		GO_REF:0000052	20141106
+UniProtKB:P36957	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23151		PMID:29211711	20180123
+UniProtKB:Q7L0Y3	tRNA methyltransferase 10 homolog C		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13563		GO_REF:0000052	20110516
+UniProtKB:Q7L0Y3	tRNA methyltransferase 10 homolog C		GO:0005739		CAFA	NCBITaxon:9606	IDA		PANTHER:PTHR13563		PMID:23042678	20160726
+UniProtKB:Q7L0Y3	tRNA methyltransferase 10 homolog C		GO:0005739		UniProt	NCBITaxon:9606	IMP		PANTHER:PTHR13563		PMID:27132592	20161107
+UniProtKB:Q05195	Max dimerization protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11969		GO_REF:0000052	20101115
+UniProtKB:Q00059	Transcription factor A, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13711		GO_REF:0000052	20131205
+UniProtKB:Q15831	Serine/threonine-protein kinase STK11		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24347		PMID:11430832	20110707
+UniProtKB:Q8WTT2	Nucleolar complex protein 3 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14428		GO_REF:0000052	20141106
+UniProtKB:P63244	Receptor of activated protein C kinase 1		GO:0005739		UniProt	NCBITaxon:9606	IMP		PANTHER:PTHR19868		PMID:19767770	20131125
+UniProtKB:Q99623	Prohibitin-2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23222		GO_REF:0000052	20120912
+UniProtKB:Q99623	Prohibitin-2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23222		PMID:19906925	20150409
+UniProtKB:Q99623	Prohibitin-2		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR23222		PMID:20833797	20140128
+UniProtKB:P11177	Pyruvate dehydrogenase E1 component subunit beta, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11624		GO_REF:0000052	20120912
+UniProtKB:Q92934	Bcl2-associated agonist of cell death		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32380		GO_REF:0000052	20101115
+UniProtKB:Q8WY22	BRI3-binding protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR31253		PMID:17943721	20130905
+UniProtKB:P43155	Carnitine O-acetyltransferase		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR22589		PMID:20833797	20140128
+UniProtKB:P43155	Carnitine O-acetyltransferase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22589		PMID:2351134	20120413
+UniProtKB:Q92947	Glutaryl-CoA dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10909		GO_REF:0000052	20110516
+UniProtKB:P06576	ATP synthase subunit beta, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15184		GO_REF:0000052	20080818
+UniProtKB:P06576	ATP synthase subunit beta, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR15184		PMID:20833797	20140128
+UniProtKB:P06576	ATP synthase subunit beta, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15184		PMID:2870059	20080411
+UniProtKB:Q8WXH0	Nesprin-2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11915		PMID:15671068	20130911
+UniProtKB:O76031	ATP-dependent Clp protease ATP-binding subunit clpX-like, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11262		GO_REF:0000052	20110516
+UniProtKB:O76031	ATP-dependent Clp protease ATP-binding subunit clpX-like, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11262		PMID:11003706	20081209
+UniProtKB:Q8WXG1	Radical S-adenosyl methionine domain-containing protein 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21339		PMID:21527675	20120611
+UniProtKB:Q96CQ1	Solute carrier family 25 member 36		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:25320081	20141204
+UniProtKB:P10620	Microsomal glutathione S-transferase 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10689		PMID:20727966	20120315
+UniProtKB:P41970	ETS domain-containing protein Elk-3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11849		GO_REF:0000052	20161204
+UniProtKB:P34897	Serine hydroxymethyltransferase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11680		GO_REF:0000052	20100326
+UniProtKB:P34897	Serine hydroxymethyltransferase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11680		PMID:17482557	20080121
+UniProtKB:P34897	Serine hydroxymethyltransferase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11680		PMID:24075985	20151215
+UniProtKB:P38117	Electron transfer flavoprotein subunit beta		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21294		GO_REF:0000052	20100326
+UniProtKB:Q96D53	Atypical kinase COQ8B, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10566		GO_REF:0000052	20141106
+UniProtKB:O94826	Mitochondrial import receptor subunit TOM70		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22904		GO_REF:0000052	20120912
+UniProtKB:O94826	Mitochondrial import receptor subunit TOM70		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR22904		PMID:20531390	20141112
+UniProtKB:P16260	Graves disease carrier protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20151016
+UniProtKB:Q99490	Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20161204
+UniProtKB:P16219	Short-chain specific acyl-CoA dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10909		GO_REF:0000052	20171201
+UniProtKB:P16219	Short-chain specific acyl-CoA dehydrogenase, mitochondrial		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR10909		PMID:16729965	20071224
+UniProtKB:Q92731	Estrogen receptor beta		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR24084		PMID:15024130	20060111
+UniProtKB:P04818	Thymidylate synthase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11549		PMID:21876188	20110902
+UniProtKB:Q8IXM3	39S ribosomal protein L41, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21338		GO_REF:0000052	20101115
+UniProtKB:P51649	Succinate-semialdehyde dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11699		GO_REF:0000052	20131205
+UniProtKB:P51649	Succinate-semialdehyde dehydrogenase, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11699		PMID:20833797	20140128
+UniProtKB:Q8IXL7	Methionine-R-sulfoxide reductase B3		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR10173		PMID:14699060	20090723
+UniProtKB:Q86Y39	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21382		GO_REF:0000052	20151016
+UniProtKB:Q8N183	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32470		GO_REF:0000052	20131205
+UniProtKB:Q8N183	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 2		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR32470		PMID:22587331	20130717
+UniProtKB:P55084	Trifunctional enzyme subunit beta, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR18919		GO_REF:0000052	20141106
+UniProtKB:Q86XF0	Dihydrofolate reductase 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11549		GO_REF:0000052	20130311
+UniProtKB:Q86XF0	Dihydrofolate reductase 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11549		PMID:21876184	20110916
+UniProtKB:Q15120	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11947		GO_REF:0000052	20171201
+UniProtKB:Q8TDB4	Protein MGARP		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22910		GO_REF:0000052	20151016
+UniProtKB:Q8TDB4	Protein MGARP		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22910		PMID:16565373	20120504
+UniProtKB:Q8TDB4	Protein MGARP		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22910		PMID:21447634	20120504
+UniProtKB:Q15119	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11947		GO_REF:0000052	20141106
+UniProtKB:Q15118	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11947		GO_REF:0000052	20161204
+UniProtKB:P11182	Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23151		GO_REF:0000052	20100326
+UniProtKB:Q9Y5J7	Mitochondrial import inner membrane translocase subunit Tim9		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10898		GO_REF:0000052	20080818
+UniProtKB:O43772	Mitochondrial carnitine/acylcarnitine carrier protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20141106
+UniProtKB:O43772	Mitochondrial carnitine/acylcarnitine carrier protein		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR24089		PMID:20833797	20140128
+UniProtKB:Q8WWI5	Choline transporter-like protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12385		GO_REF:0000052	20151016
+UniProtKB:P21399	Cytoplasmic aconitate hydratase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11670		GO_REF:0000052	20111111
+UniProtKB:P21397	Amine oxidase [flavin-containing] A		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10742		GO_REF:0000052	20151016
+UniProtKB:P21397	Amine oxidase [flavin-containing] A		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR10742		PMID:20833797	20140128
+UniProtKB:O00763	Acetyl-CoA carboxylase 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR18866		PMID:10677481	20140806
+UniProtKB:Q5TAQ9	DDB1- and CUL4-associated factor 8		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15574		GO_REF:0000052	20161204
+UniProtKB:Q53H12	Acylglycerol kinase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12358		GO_REF:0000052	20161204
+UniProtKB:O95140	Mitofusin-2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10465		PMID:11181170	20051115
+UniProtKB:O95140	Mitofusin-2		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10465		PMID:20871098	20150202
+UniProtKB:Q02978	Mitochondrial 2-oxoglutarate/malate carrier protein		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR24089		PMID:20833797	20140128
+UniProtKB:Q9NZJ7	Mitochondrial carrier homolog 1		GO:0005739		UniProt	NCBITaxon:9606	IMP		PANTHER:PTHR10780		PMID:12377771	20061205
+UniProtKB:P05141	ADP/ATP translocase 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20151016
+UniProtKB:P05141	ADP/ATP translocase 2		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR24089		PMID:20833797	20140128
+UniProtKB:P07919	Cytochrome b-c1 complex subunit 6, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR15336		PMID:20833797	20140128
+UniProtKB:Q14318	Peptidyl-prolyl cis-trans isomerase FKBP8		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20120912
+UniProtKB:Q9NPL8	Complex I assembly factor TIMMDC1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13002		GO_REF:0000052	20130311
+UniProtKB:Q9NPL8	Complex I assembly factor TIMMDC1, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR13002		GO_REF:0000054	20100607
+UniProtKB:P82675	28S ribosomal protein S5, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13718		GO_REF:0000052	20130311
+UniProtKB:P82663	28S ribosomal protein S25, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13274		GO_REF:0000052	20110516
+UniProtKB:P82650	28S ribosomal protein S22, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13071		GO_REF:0000052	20080818
+UniProtKB:Q8NI60	Atypical kinase COQ8A, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10566		GO_REF:0000052	20151016
+UniProtKB:Q8NI60	Atypical kinase COQ8A, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10566		PMID:25498144	20150223
+UniProtKB:Q6P2H3	Centrosomal protein of 85 kDa		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31075		GO_REF:0000052	20171201
+UniProtKB:P23443	Ribosomal protein S6 kinase beta-1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24351		PMID:17936702	20100517
+UniProtKB:Q7Z6M4	Transcription termination factor 4, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13068		GO_REF:0000052	20131205
+UniProtKB:Q9HD33	39S ribosomal protein L47, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21183		GO_REF:0000052	20130311
+UniProtKB:P13196	5-aminolevulinate synthase, nonspecific, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13693		GO_REF:0000052	20110516
+UniProtKB:Q9P032	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13338		GO_REF:0000052	20120912
+UniProtKB:Q9P032	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13338		PMID:18179882	20090819
+UniProtKB:P43897	Elongation factor Ts, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11741		GO_REF:0000052	20080818
+UniProtKB:P80404	4-aminobutyrate aminotransferase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11986		GO_REF:0000052	20171201
+UniProtKB:P80404	4-aminobutyrate aminotransferase, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR11986		GO_REF:0000054	20100607
+UniProtKB:Q7KZN9	Cytochrome c oxidase assembly protein COX15 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23289		GO_REF:0000052	20151016
+UniProtKB:Q7KZN9	Cytochrome c oxidase assembly protein COX15 homolog		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR23289		PMID:9878253	20130214
+UniProtKB:P23378	Glycine dehydrogenase (decarboxylating), mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11773		GO_REF:0000052	20141106
+UniProtKB:P23378	Glycine dehydrogenase (decarboxylating), mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11773		PMID:28244183	20170322
+UniProtKB:P23368	NAD-dependent malic enzyme, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23406		GO_REF:0000052	20080818
+UniProtKB:Q7Z5J4	Retinoic acid-induced protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14955		GO_REF:0000052	20141106
+UniProtKB:O94811	Tubulin polymerization-promoting protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12932		GO_REF:0000052	20161204
+UniProtKB:P13073	Cytochrome c oxidase subunit 4 isoform 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10707		GO_REF:0000052	20161204
+UniProtKB:P13073	Cytochrome c oxidase subunit 4 isoform 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10707		PMID:15565177	20170714
+UniProtKB:P13073	Cytochrome c oxidase subunit 4 isoform 1, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR10707		PMID:20833797	20140128
+UniProtKB:Q7Z4Y8	ATP synthase subunit g 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12386		GO_REF:0000052	20151016
+UniProtKB:Q8N4Q1	Mitochondrial intermembrane space import and assembly protein 40		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21622		GO_REF:0000052	20141106
+UniProtKB:Q8N4Q1	Mitochondrial intermembrane space import and assembly protein 40		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21622		PMID:23676665	20180114
+UniProtKB:Q8N4Q1	Mitochondrial intermembrane space import and assembly protein 40		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR21622		PMID:24101517	20140915
+UniProtKB:Q2TB90	Putative hexokinase HKDC1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR19443		GO_REF:0000052	20141106
+UniProtKB:Q8N4H5	Mitochondrial import receptor subunit TOM5 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20120912
+UniProtKB:Q7Z4L0	Cytochrome c oxidase subunit 8C, mitochondrial		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR16717		PMID:12762575	20070921
+UniProtKB:O94913	Pre-mRNA cleavage complex 2 protein Pcf11		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15921		GO_REF:0000052	20161204
+UniProtKB:O94925	Glutaminase kidney isoform, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12544		GO_REF:0000052	20151016
+UniProtKB:O94925	Glutaminase kidney isoform, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12544		PMID:16899818	20120918
+UniProtKB:O00746	Nucleoside diphosphate kinase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11349		GO_REF:0000052	20151016
+UniProtKB:Q8N3Z3	GTP-binding protein 8		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11649		GO_REF:0000052	20141106
+UniProtKB:Q8N490	Probable hydrolase PNKD		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11935		GO_REF:0000052	20090616
+UniProtKB:P08238	Heat shock protein HSP 90-beta		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11528		PMID:20833797	20140128
+UniProtKB:Q10713	Mitochondrial-processing peptidase subunit alpha		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11851		GO_REF:0000052	20141106
+UniProtKB:Q10713	Mitochondrial-processing peptidase subunit alpha		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR11851		GO_REF:0000054	20100607
+UniProtKB:Q8TCS8	Polyribonucleotide nucleotidyltransferase 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11252		GO_REF:0000052	20120912
+UniProtKB:Q8TCS8	Polyribonucleotide nucleotidyltransferase 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11252		PMID:16055741	20110718
+UniProtKB:Q8TCS8	Polyribonucleotide nucleotidyltransferase 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11252		PMID:19864255	20110719
+UniProtKB:Q8TCS8	Polyribonucleotide nucleotidyltransferase 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11252		PMID:20691904	20110718
+UniProtKB:Q9Y3I1	F-box only protein 7		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15537		PMID:23933751	20140203
+UniProtKB:Q9Y3I1	F-box only protein 7		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""CL:0000700"", ""label"": ""dopaminergic neuron""}}"	ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR15537		PMID:26310625	20170207
+UniProtKB:Q5S007	Leucine-rich repeat serine/threonine-protein kinase 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23155		PMID:21850687	20111130
+UniProtKB:P21796	Voltage-dependent anion-selective channel protein 1		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11743		PMID:20833797	20140128
+UniProtKB:Q5TEU4	Arginine-hydroxylase NDUFAF5, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13090		PMID:27226634	20160923
+UniProtKB:O75439	Mitochondrial-processing peptidase subunit beta		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11851		GO_REF:0000052	20151016
+UniProtKB:P33121	Long-chain-fatty-acid--CoA ligase 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24096		PMID:22022213	20120417
+UniProtKB:Q6YN16	Hydroxysteroid dehydrogenase-like protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24322		GO_REF:0000052	20141106
+UniProtKB:Q8N159	N-acetylglutamate synthase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23342		GO_REF:0000052	20171201
+UniProtKB:Q8N111	Cell cycle exit and neuronal differentiation protein 1	colocalizes_with	GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:11311134	20171005
+UniProtKB:P11498	Pyruvate carboxylase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR18866		GO_REF:0000052	20131205
+UniProtKB:P11498	Pyruvate carboxylase, mitochondrial		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR18866		PMID:16729965	20071224
+UniProtKB:Q8IXQ6	Poly [ADP-ribose] polymerase 9		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14453		GO_REF:0000052	20151016
+UniProtKB:Q92754	Transcription factor AP-2 gamma		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10812		GO_REF:0000052	20131205
+UniProtKB:P31944	Caspase-14		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10454		GO_REF:0000052	20171201
+UniProtKB:Q99497	Protein/nucleic acid deglycase DJ-1		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11019		PMID:15790595	20140716
+UniProtKB:Q99497	Protein/nucleic acid deglycase DJ-1		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11019		PMID:15944198	20140630
+UniProtKB:Q99497	Protein/nucleic acid deglycase DJ-1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11019		PMID:18711745	20110216
+UniProtKB:Q99497	Protein/nucleic acid deglycase DJ-1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11019		PMID:19229105	20141217
+UniProtKB:Q99497	Protein/nucleic acid deglycase DJ-1		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11019		PMID:19822128	20140715
+UniProtKB:Q99497	Protein/nucleic acid deglycase DJ-1		GO:0005739		UniProt	NCBITaxon:9606	IMP		PANTHER:PTHR11019		PMID:21785459	20131127
+UniProtKB:Q99497	Protein/nucleic acid deglycase DJ-1		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11019		PMID:23743200	20140703
+UniProtKB:P31930	Cytochrome b-c1 complex subunit 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11851		GO_REF:0000052	20080205
+UniProtKB:P31930	Cytochrome b-c1 complex subunit 1, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11851		PMID:20833797	20140128
+UniProtKB:P38646	Stress-70 protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR19375		GO_REF:0000052	20080818
+UniProtKB:P38646	Stress-70 protein, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR19375		PMID:26702583	20171102
+UniProtKB:P38646	Stress-70 protein, mitochondrial		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR19375		PMID:7896880	20090324
+UniProtKB:Q9C0C7	Activating molecule in BECN1-regulated autophagy protein 1		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR22874		PMID:25215947	20150113
+UniProtKB:Q9C0C7	Activating molecule in BECN1-regulated autophagy protein 1	colocalizes_with	GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR22874		PMID:21753002	20141110
+UniProtKB:P62072	Mitochondrial import inner membrane translocase subunit Tim10		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11038		GO_REF:0000052	20110516
+UniProtKB:Q9H5Z6	Protein FAM124B		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32536		GO_REF:0000052	20161204
+UniProtKB:Q6P1Q0	LETM1 domain-containing protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14009		GO_REF:0000052	20151016
+UniProtKB:P45954	Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10909		GO_REF:0000052	20111111
+UniProtKB:Q6ZN28	Metastasis-associated in colon cancer protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15603		GO_REF:0000052	20131205
+UniProtKB:Q562E7	WD repeat-containing protein 81		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22847		PMID:28404643	20170807
+UniProtKB:Q96LW7	Caspase recruitment domain-containing protein 19		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20141106
+UniProtKB:Q6P1L8	39S ribosomal protein L14, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21037		GO_REF:0000052	20161204
+UniProtKB:Q14197	Peptidyl-tRNA hydrolase ICT1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11075		PMID:20186120	20100305
+UniProtKB:Q14154	Death ligand signal enhancer		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11102		PMID:10942595	20060117
+UniProtKB:Q14154	Death ligand signal enhancer		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11102		PMID:20563667	20110524
+UniProtKB:A0A087WWV3	Uncharacterized protein		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20151016
+UniProtKB:Q9H6K4	Optic atrophy 3 protein		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR12499		GO_REF:0000054	20100607
+UniProtKB:Q5EBM0	UMP-CMP kinase 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20161204
+UniProtKB:Q5EBM0	UMP-CMP kinase 2, mitochondrial		GO:0005739		MGI	NCBITaxon:9606	IDA				PMID:17999954	20100610
+UniProtKB:Q86SX6	Glutaredoxin-related protein 5, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10293		GO_REF:0000052	20141106
+UniProtKB:P40305	Interferon alpha-inducible protein 27, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16932		PMID:18330707	20100514
+UniProtKB:Q9NS37	CREB/ATF bZIP transcription factor		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14312		GO_REF:0000052	20151016
+UniProtKB:Q9H6R4	Nucleolar protein 6		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR17972		GO_REF:0000052	20131205
+UniProtKB:P35613	Basigin		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR10075		PMID:20833797	20140128
+UniProtKB:Q9NS69	Mitochondrial import receptor subunit TOM22 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12504		GO_REF:0000052	20080818
+UniProtKB:Q38SD2	Leucine-rich repeat serine/threonine-protein kinase 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23155		GO_REF:0000052	20101115
+UniProtKB:Q4G176	Acyl-CoA synthetase family member 3, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24095		PMID:21846720	20120127
+UniProtKB:Q96TA2	ATP-dependent zinc metalloprotease YME1L1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23076		GO_REF:0000052	20161204
+UniProtKB:Q96TA2	ATP-dependent zinc metalloprotease YME1L1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23076		PMID:27495975	20160913
+UniProtKB:Q4G0N4	NAD kinase 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13158		PMID:23212377	20130118
+UniProtKB:P23560	Brain-derived neurotrophic factor		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11589		GO_REF:0000052	20161204
+UniProtKB:Q7Z7K0	COX assembly mitochondrial protein homolog		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:23676665	20180114
+UniProtKB:Q7Z7H8	39S ribosomal protein L10, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31091		GO_REF:0000052	20090616
+UniProtKB:A6NFY7	Succinate dehydrogenase assembly factor 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13166		PMID:19465911	20090529
+UniProtKB:Q9HCC0	Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22855		GO_REF:0000052	20151016
+UniProtKB:Q9HCC0	Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR22855		PMID:11170888	20160509
+UniProtKB:Q9P0U1	Mitochondrial import receptor subunit TOM7 homolog		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR16463		PMID:12198123	20081105
+UniProtKB:P08574	Cytochrome c1, heme protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10266		GO_REF:0000052	20080205
+UniProtKB:P08574	Cytochrome c1, heme protein, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR10266		PMID:20833797	20140128
+UniProtKB:P08559	Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11516		GO_REF:0000052	20161204
+UniProtKB:P08559	Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11516		PMID:20833797	20140128
+UniProtKB:Q9P0P8	Uncharacterized protein C6orf203		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR13633		PMID:20833797	20140128
+UniProtKB:Q9BX68	Histidine triad nucleotide-binding protein 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23089		GO_REF:0000052	20141106
+UniProtKB:B4DLN1	cDNA FLJ60124, highly similar to Mitochondrial dicarboxylate carrier		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20100326
+UniProtKB:Q9P0J6	39S ribosomal protein L36, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR18804		GO_REF:0000052	20171201
+UniProtKB:Q9P0J0	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12966		GO_REF:0000052	20110516
+UniProtKB:Q9P0J0	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12966		PMID:12611891	20031111
+UniProtKB:Q9P0J0	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12966		PMID:16826196	20070226
+UniProtKB:Q9H9B4	Sideroflexin-1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11153		GO_REF:0000052	20141106
+UniProtKB:P30405	Peptidyl-prolyl cis-trans isomerase F, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11071		GO_REF:0000052	20161204
+UniProtKB:Q9BRQ8	Apoptosis-inducing factor 2		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR22915		PMID:11980907	20060110
+UniProtKB:Q5FVE4	Long-chain-fatty-acid--CoA ligase ACSBG2		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR24096		PMID:16762313	20101102
+UniProtKB:Q9BRT2	Ubiquinol-cytochrome-c reductase complex assembly factor 2		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20151016
+UniProtKB:Q9BRT2	Ubiquinol-cytochrome-c reductase complex assembly factor 2		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:22363741	20131027
+UniProtKB:Q09161	Nuclear cap-binding protein subunit 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12412		GO_REF:0000052	20141106
+UniProtKB:P55851	Mitochondrial uncoupling protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20161204
+UniProtKB:P19838	Nuclear factor NF-kappa-B p105 subunit		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24169		GO_REF:0000052	20120912
+UniProtKB:P55809	Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13707		GO_REF:0000052	20141106
+UniProtKB:P55809	Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""CL:0000019"", ""label"": ""sperm""}}"	UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13707		PMID:11756565	20110915
+UniProtKB:Q9NUT2	ATP-binding cassette sub-family B member 8, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24221		GO_REF:0000052	20111111
+UniProtKB:Q07973	1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24285		GO_REF:0000052	20151016
+UniProtKB:P50213	Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11835		GO_REF:0000052	20141106
+UniProtKB:A6NK58	Putative lipoyltransferase 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:28757203	20171025
+UniProtKB:P13674	Prolyl 4-hydroxylase subunit alpha-1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10869		GO_REF:0000052	20101115
+UniProtKB:P55789	FAD-linked sulfhydryl oxidase ALR		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12645		GO_REF:0000052	20111111
+UniProtKB:P55789	FAD-linked sulfhydryl oxidase ALR		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12645		PMID:23676665	20180114
+UniProtKB:Q02338	D-beta-hydroxybutyrate dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24316		GO_REF:0000052	20131205
+UniProtKB:Q02318	Sterol 26-hydroxylase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24291		GO_REF:0000052	20141106
+UniProtKB:P35232	Prohibitin		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR23222		GO_REF:0000054	20100607
+UniProtKB:P35232	Prohibitin		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR23222		PMID:20833797	20140128
+UniProtKB:P35232	Prohibitin		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""CL:0002618"", ""label"": ""endothelial cell of umbilical vein""}}"	UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23222		PMID:24732013	20150311
+UniProtKB:Q07820	Induced myeloid leukemia cell differentiation protein Mcl-1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11256		GO_REF:0000052	20080818
+UniProtKB:Q07820	Induced myeloid leukemia cell differentiation protein Mcl-1		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:7896880	20090324
+UniProtKB:Q07817	Bcl-2-like protein 1		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:12011449	20070115
+UniProtKB:Q07812	Apoptosis regulator BAX		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:11912183	20070130
+UniProtKB:Q07812	Apoptosis regulator BAX		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:15102863	20160823
+UniProtKB:Q07812	Apoptosis regulator BAX		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:15705586	20130619
+UniProtKB:Q07812	Apoptosis regulator BAX		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:16199525	20140217
+UniProtKB:Q07812	Apoptosis regulator BAX		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:17823127	20080718
+UniProtKB:Q07812	Apoptosis regulator BAX		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:19767770	20131125
+UniProtKB:Q02252	Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11699		GO_REF:0000052	20131205
+UniProtKB:Q18PE1	Protein Dok-7		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21636		GO_REF:0000052	20171201
+UniProtKB:Q9NRP2	COX assembly mitochondrial protein 2 homolog		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22977		PMID:20220131	20120213
+UniProtKB:P20132	L-serine dehydratase/L-threonine deaminase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10314		GO_REF:0000052	20110516
+UniProtKB:Q9P013	Spliceosome-associated protein CWC15 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20141106
+UniProtKB:O60313	Dynamin-like 120 kDa protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11566		GO_REF:0000052	20120912
+UniProtKB:O60313	Dynamin-like 120 kDa protein, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11566		PMID:17545159	20121022
+UniProtKB:Q9H649	tRNA (cytosine(34)-C(5))-methyltransferase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22808		PMID:27214402	20170110
+UniProtKB:Q9H649	tRNA (cytosine(34)-C(5))-methyltransferase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22808		PMID:27356879	20170110
+UniProtKB:Q9H5Q4	Dimethyladenosine transferase 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11727		GO_REF:0000052	20151016
+UniProtKB:Q9NR28	Diablo homolog, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32247		GO_REF:0000052	20080818
+UniProtKB:Q9NQP4	Prefoldin subunit 4		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21100		PMID:17936702	20111209
+UniProtKB:P22695	Cytochrome b-c1 complex subunit 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11851		GO_REF:0000052	20151016
+UniProtKB:P22695	Cytochrome b-c1 complex subunit 2, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11851		PMID:20833797	20140128
+UniProtKB:O43181	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12219		GO_REF:0000052	20080205
+UniProtKB:Q9NQH7	Probable Xaa-Pro aminopeptidase 3		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR10804		PMID:20179356	20121022
+UniProtKB:Q9NQG6	Mitochondrial dynamics protein MID51		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR16451		GO_REF:0000054	20100607
+UniProtKB:Q9NQG6	Mitochondrial dynamics protein MID51		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16451		PMID:23921378	20130909
+UniProtKB:Q9NQG6	Mitochondrial dynamics protein MID51		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR16451		PMID:24515348	20140508
+UniProtKB:Q9BRQ6	MICOS complex subunit MIC25		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21588		GO_REF:0000052	20120912
+UniProtKB:Q9BRQ6	MICOS complex subunit MIC25		GO:0005739		UniProt	NCBITaxon:9606	IMP		PANTHER:PTHR21588		PMID:22228767	20120228
+UniProtKB:Q9BRQ6	MICOS complex subunit MIC25		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21588		PMID:25781180	20150615
+UniProtKB:Q9BRQ6	MICOS complex subunit MIC25		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21588		PMID:25997101	20150615
+UniProtKB:P09211	Glutathione S-transferase P		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11571		GO_REF:0000052	20131205
+UniProtKB:O95139	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15083		GO_REF:0000052	20120912
+UniProtKB:Q6GPH4	XIAP-associated factor 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR16295		GO_REF:0000052	20161204
+UniProtKB:P54886	Delta-1-pyrroline-5-carboxylate synthase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11063		GO_REF:0000052	20080818
+UniProtKB:P54886	Delta-1-pyrroline-5-carboxylate synthase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11063		PMID:26297558	20160425
+UniProtKB:P54886	Delta-1-pyrroline-5-carboxylate synthase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11063		PMID:26320891	20160314
+UniProtKB:P54868	Hydroxymethylglutaryl-CoA synthase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11877		GO_REF:0000052	20151016
+UniProtKB:P19404	NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10371		GO_REF:0000052	20161204
+UniProtKB:P19404	NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10371		PMID:12754703	20080904
+UniProtKB:Q969V5	Mitochondrial ubiquitin ligase activator of NFKB 1		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR12183		GO_REF:0000054	20100607
+UniProtKB:Q969V5	Mitochondrial ubiquitin ligase activator of NFKB 1		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""CL:0000530"", ""label"": ""primary neuron""}}|{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""GO:0030424"", ""label"": ""axon""}}|{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""GO:0043025"", ""label"": ""neuronal cell body""}}"	ParkinsonsUK-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR12183		PMID:24898855	20150202
+UniProtKB:Q5T1C6	Acyl-coenzyme A thioesterase THEM4		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12418		PMID:19604401	20121005
+UniProtKB:Q14CZ7	FAST kinase domain-containing protein 3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21228		GO_REF:0000052	20161204
+UniProtKB:Q14CZ7	FAST kinase domain-containing protein 3, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21228		PMID:20869947	20101208
+UniProtKB:Q14CZ7	FAST kinase domain-containing protein 3, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21228		PMID:27789713	20171116
+UniProtKB:Q9NTG7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11085		PMID:16079181	20090902
+UniProtKB:Q9BQP7	Mitochondrial genome maintenance exonuclease 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31340		GO_REF:0000052	20110516
+UniProtKB:Q9BQP7	Mitochondrial genome maintenance exonuclease 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR31340		PMID:23313956	20130118
+UniProtKB:Q9H7Z7	Prostaglandin E synthase 2		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR12782		GO_REF:0000054	20100607
+UniProtKB:Q9H7Z7	Prostaglandin E synthase 2		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR12782		PMID:20833797	20140128
+UniProtKB:Q06945	Transcription factor SOX-4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10270		GO_REF:0000052	20131205
+UniProtKB:Q9GZY4	Cytochrome c oxidase assembly factor 1 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR16080		GO_REF:0000052	20081203
+UniProtKB:Q96RQ3	Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR18866		GO_REF:0000052	20101115
+UniProtKB:O15287	Fanconi anemia group G protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15254		PMID:17060495	20080909
+UniProtKB:Q9GZT3	SRA stem-loop-interacting RNA-binding protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24011		GO_REF:0000052	20111111
+UniProtKB:Q9GZT3	SRA stem-loop-interacting RNA-binding protein, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR24011		PMID:20833797	20140128
+UniProtKB:Q9BUB7	Transmembrane protein 70, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13281		GO_REF:0000052	20141106
+UniProtKB:Q9BUA6	Myosin regulatory light chain 10		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR23049		GO_REF:0000054	20100607
+UniProtKB:O15239	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR17098		GO_REF:0000052	20161204
+UniProtKB:O15239	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR17098		PMID:16729965	20071224
+UniProtKB:Q9NWU1	3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11712		GO_REF:0000052	20161204
+UniProtKB:Q9NWU1	3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR11712		GO_REF:0000054	20100607
+UniProtKB:Q9NWU1	3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial		GO:0005739		HGNC	NCBITaxon:9606	IMP		PANTHER:PTHR11712		PMID:15668256	20060109
+UniProtKB:Q9GZQ8	Microtubule-associated proteins 1A/1B light chain 3B		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10969		PMID:25215947	20150113
+UniProtKB:Q9GZQ8	Microtubule-associated proteins 1A/1B light chain 3B		GO:0005739		AgBase	NCBITaxon:9606	IDA		PANTHER:PTHR10969		PMID:25244949	20160322
+UniProtKB:Q9NX47	E3 ubiquitin-protein ligase MARCH5		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12267		GO_REF:0000052	20141106
+UniProtKB:Q9H4A6	Golgi phosphoprotein 3		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12704		PMID:16263763	20090720
+UniProtKB:Q9Y3B8	Oligoribonuclease, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11046		GO_REF:0000052	20131205
+UniProtKB:P09486	SPARC	not	GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13866		PMID:1737102	20140725
+UniProtKB:Q9NWB6	Arginine and glutamate-rich protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31711		GO_REF:0000052	20131205
+UniProtKB:E9PQ53	NADH dehydrogenase [ubiquinone] 1 subunit C2, isoform 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13099		GO_REF:0000052	20111111
+UniProtKB:P56277	Cx9C motif-containing protein 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15590		GO_REF:0000052	20111111
+UniProtKB:Q9H4I9	Essential MCU regulator, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20151016
+UniProtKB:Q9NV92	NEDD4 family-interacting protein 2		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR13396		PMID:12796489	20081003
+UniProtKB:Q5T2N8	ATPase family AAA domain-containing protein 3C		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23075		GO_REF:0000052	20141106
+UniProtKB:Q9NUQ2	1-acyl-sn-glycerol-3-phosphate acyltransferase epsilon		GO:0005739		LIFEdb	NCBITaxon:9606	IDA				GO_REF:0000054	20100607
+UniProtKB:Q9H9J2	39S ribosomal protein L44, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14488		GO_REF:0000052	20151016
+UniProtKB:Q9NUL7	Probable ATP-dependent RNA helicase DDX28		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24031		GO_REF:0000052	20131205
+UniProtKB:Q9NUL7	Probable ATP-dependent RNA helicase DDX28		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR24031		GO_REF:0000054	20100607
+UniProtKB:Q9NUJ1	Mycophenolic acid acyl-glucuronide esterase, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR16138		GO_REF:0000054	20100607
+UniProtKB:O14966	Ras-related protein Rab-7L1		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR24073		PMID:25767741	20160627
+UniProtKB:O14949	Cytochrome b-c1 complex subunit 8		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12119		GO_REF:0000052	20120912
+UniProtKB:Q12887	Protoheme IX farnesyltransferase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11048		GO_REF:0000052	20161204
+UniProtKB:O14925	Mitochondrial import inner membrane translocase subunit Tim23		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15371		GO_REF:0000052	20101115
+UniProtKB:Q12849	G-rich sequence factor 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13976		GO_REF:0000052	20111111
+UniProtKB:Q9BYN8	28S ribosomal protein S26, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21035		GO_REF:0000052	20120912
+UniProtKB:P50440	Glycine amidinotransferase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10488		GO_REF:0000052	20151016
+UniProtKB:P50416	Carnitine O-palmitoyltransferase 1, liver isoform		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22589		GO_REF:0000052	20080205
+UniProtKB:P50416	Carnitine O-palmitoyltransferase 1, liver isoform		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22589		PMID:11350182	20120914
+UniProtKB:P57105	Synaptojanin-2-binding protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR17130		PMID:18845145	20121023
+UniProtKB:Q969Z3	Mitochondrial amidoxime reducing component 2		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR14237		GO_REF:0000054	20100607
+UniProtKB:Q969Z0	FAST kinase domain-containing protein 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21228		GO_REF:0000052	20120912
+UniProtKB:Q969Z0	FAST kinase domain-containing protein 4		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21228		PMID:20869947	20101208
+UniProtKB:Q969Y2	tRNA modification GTPase GTPBP3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11649		GO_REF:0000052	20110516
+UniProtKB:P13804	Electron transfer flavoprotein subunit alpha, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10909		GO_REF:0000052	20100326
+UniProtKB:P13804	Electron transfer flavoprotein subunit alpha, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR10909		PMID:20833797	20140128
+UniProtKB:Q9NTK1	Protein DEPP1		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR15426		GO_REF:0000054	20100607
+UniProtKB:Q9NTK1	Protein DEPP1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15426		PMID:25261981	20171106
+UniProtKB:Q969P6	DNA topoisomerase I, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10290		GO_REF:0000052	20151016
+UniProtKB:P60602	Reactive oxygen species modulator 1		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:16842742	20081223
+UniProtKB:O14879	Interferon-induced protein with tetratricopeptide repeats 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10271		GO_REF:0000052	20151016
+UniProtKB:O14879	Interferon-induced protein with tetratricopeptide repeats 3		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10271		PMID:21813773	20120726
+UniProtKB:O14862	Interferon-inducible protein AIM2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12200		GO_REF:0000052	20151016
+UniProtKB:Q12772	Sterol regulatory element-binding protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12565		GO_REF:0000052	20161204
+UniProtKB:P12074	Cytochrome c oxidase subunit 6A1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11504		GO_REF:0000052	20141106
+UniProtKB:Q96HJ9	Protein FMC1 homolog		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR31716		PMID:28719601	20180321
+UniProtKB:Q16595	Frataxin, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR16821		PMID:17468497	20080912
+UniProtKB:P39210	Protein Mpv17		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR11266		PMID:16582910	20060728
+UniProtKB:Q9UJS0	Calcium-binding mitochondrial carrier protein Aralar2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20100326
+UniProtKB:Q9UJS0	Calcium-binding mitochondrial carrier protein Aralar2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:10642534	20080220
+UniProtKB:Q9UJS0	Calcium-binding mitochondrial carrier protein Aralar2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:11566871	20070124
+UniProtKB:O43524	Forkhead box protein O3	colocalizes_with	GO:0005739	"{""relationship"": {""relation"": [{""id"": ""GOREL:0000032"", ""label"": ""exists_during""}], ""id"": ""GO:0042149"", ""label"": ""cellular response to glucose starvation""}}"	UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11829		PMID:23283301	20180222
+UniProtKB:Q16540	39S ribosomal protein L23, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12059		GO_REF:0000052	20161204
+UniProtKB:Q96A26	Protein FAM162A		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13674		GO_REF:0000052	20130311
+UniProtKB:O43542	DNA repair protein XRCC3		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22942		PMID:20413593	20100916
+UniProtKB:P42765	3-ketoacyl-CoA thiolase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR18919		GO_REF:0000052	20120912
+UniProtKB:P42765	3-ketoacyl-CoA thiolase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR18919		PMID:18371312	20101214
+UniProtKB:P49448	Glutamate dehydrogenase 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11606		GO_REF:0000052	20161204
+UniProtKB:P49448	Glutamate dehydrogenase 2, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11606		PMID:18688271	20090616
+UniProtKB:P42704	Leucine-rich PPR motif-containing protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24015		GO_REF:0000052	20110516
+UniProtKB:P42704	Leucine-rich PPR motif-containing protein, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24015		PMID:12832482	20040216
+UniProtKB:P42704	Leucine-rich PPR motif-containing protein, mitochondrial	colocalizes_with	GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR24015		PMID:12762840	20060719
+UniProtKB:P17568	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR20900		PMID:20833797	20140128
+UniProtKB:P49419	Alpha-aminoadipic semialdehyde dehydrogenase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11699		GO_REF:0000052	20161204
+UniProtKB:P49411	Elongation factor Tu, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23115		GO_REF:0000052	20100326
+UniProtKB:P49411	Elongation factor Tu, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR23115		PMID:20833797	20140128
+UniProtKB:P49411	Elongation factor Tu, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23115		PMID:9332382	20080312
+UniProtKB:P49406	39S ribosomal protein L19, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15680		GO_REF:0000052	20151016
+UniProtKB:O75648	Mitochondrial tRNA-specific 2-thiouridylase 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11933		GO_REF:0000052	20141106
+UniProtKB:P17540	Creatine kinase S-type, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11547		PMID:20833797	20140128
+UniProtKB:P10809	60 kDa heat shock protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11353		GO_REF:0000052	20161204
+UniProtKB:P10809	60 kDa heat shock protein, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11353		PMID:17823127	20080718
+UniProtKB:P10809	60 kDa heat shock protein, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11353		PMID:18086682	20080718
+UniProtKB:P10809	60 kDa heat shock protein, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11353		PMID:21245038	20170720
+UniProtKB:O75600	2-amino-3-ketobutyrate coenzyme A ligase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13693		GO_REF:0000052	20161204
+UniProtKB:Q96BR5	Cytochrome c oxidase assembly factor 7		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13891		GO_REF:0000052	20110516
+UniProtKB:Q96C36	Pyrroline-5-carboxylate reductase 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11645		GO_REF:0000052	20130311
+UniProtKB:Q96C36	Pyrroline-5-carboxylate reductase 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11645		PMID:23024808	20160107
+UniProtKB:Q96C36	Pyrroline-5-carboxylate reductase 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11645		PMID:25865492	20151014
+UniProtKB:Q9UI09	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12910		GO_REF:0000052	20110516
+UniProtKB:P49281	Natural resistance-associated macrophage protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11706		GO_REF:0000052	20111111
+UniProtKB:O95977	Sphingosine 1-phosphate receptor 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22750		GO_REF:0000052	20161204
+UniProtKB:Q9BSQ5	Cerebral cavernous malformations 2 protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21642		GO_REF:0000052	20141106
+UniProtKB:Q9UHK6	Alpha-methylacyl-CoA racemase		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0004134"", ""label"": ""proximal tubule""}}"	UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11837		PMID:20102405	20120821
+UniProtKB:Q9UHK6	Alpha-methylacyl-CoA racemase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11837		PMID:7649182	20120127
+UniProtKB:Q96C86	m7GpppX diphosphatase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12978		GO_REF:0000052	20131205
+UniProtKB:O75489	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10884		GO_REF:0000052	20131205
+UniProtKB:Q96EY7	Pentatricopeptide repeat domain-containing protein 3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR16276		GO_REF:0000052	20120912
+UniProtKB:Q96EY7	Pentatricopeptide repeat domain-containing protein 3, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16276		PMID:19427859	20120914
+UniProtKB:O75616	GTPase Era, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11649		GO_REF:0000052	20131205
+UniProtKB:Q96EY1	DnaJ homolog subfamily A member 3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24076		GO_REF:0000052	20131205
+UniProtKB:Q96EY1	DnaJ homolog subfamily A member 3, mitochondrial		GO:0005739		GO_Central	NCBITaxon:9606	IDA		PANTHER:PTHR24076		PMID:20053669	20141113
+UniProtKB:Q96EY1	DnaJ homolog subfamily A member 3, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24076		PMID:21231916	20140403
+UniProtKB:P10635	Cytochrome P450 2D6		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA				PMID:19438707	20100204
+UniProtKB:O75438	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15222		GO_REF:0000052	20161204
+UniProtKB:P10606	Cytochrome c oxidase subunit 5B, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10122		GO_REF:0000052	20101115
+UniProtKB:O75431	Metaxin-2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12289		GO_REF:0000052	20141106
+UniProtKB:O75431	Metaxin-2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12289		PMID:25997101	20150615
+UniProtKB:O75414	Nucleoside diphosphate kinase 6		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11349		PMID:10618642	20100430
+UniProtKB:P17302	Gap junction alpha-1 protein		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""CL:0000746"", ""label"": ""cardiac muscle cell""}}"	AgBase	NCBITaxon:9606	IDA		PANTHER:PTHR11984		PMID:15919068	20150725
+UniProtKB:P00403	Cytochrome c oxidase subunit 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22888		PMID:16826196	20070226
+UniProtKB:P00403	Cytochrome c oxidase subunit 2		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR22888		PMID:22802641	20121112
+UniProtKB:Q5VTU8	ATP synthase subunit epsilon-like protein, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR21144		PMID:20833797	20140128
+UniProtKB:O43502	DNA repair protein RAD51 homolog 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22942		GO_REF:0000052	20161204
+UniProtKB:O43502	DNA repair protein RAD51 homolog 3		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22942		PMID:20413593	20100916
+UniProtKB:P32248	C-C chemokine receptor type 7		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24227		GO_REF:0000052	20161204
+UniProtKB:P00387	NADH-cytochrome b5 reductase 3		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR19370		PMID:20833797	20140128
+UniProtKB:P00374	Dihydrofolate reductase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11549		GO_REF:0000052	20130311
+UniProtKB:Q96EK5	KIF1-binding protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR20956		PMID:16225668	20080516
+UniProtKB:Q9Y4W6	AFG3-like protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23076		GO_REF:0000052	20101115
+UniProtKB:Q49B96	Cytochrome c oxidase assembly protein COX19		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:23345593	20180114
+UniProtKB:Q49B96	Cytochrome c oxidase assembly protein COX19		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:23676665	20180114
+UniProtKB:P57729	Ras-related protein Rab-38		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR24073		PMID:25767741	20160627
+UniProtKB:Q8NBX0	Saccharopine dehydrogenase-like oxidoreductase		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR12286		PMID:20833797	20140128
+UniProtKB:Q14596	Next to BRCA1 gene 1 protein	colocalizes_with	GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR20930		PMID:21296869	20150203
+UniProtKB:Q8NC60	Nitric oxide-associated protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11089		GO_REF:0000052	20110516
+UniProtKB:Q6IB77	Glycine N-acyltransferase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15298		PMID:22475485	20170815
+UniProtKB:Q49AM1	Transcription termination factor 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15437		PMID:19366608	20170615
+UniProtKB:Q9UL15	BAG family molecular chaperone regulator 5		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""GOREL:0000032"", ""label"": ""exists_during""}], ""id"": ""GO:0034599"", ""label"": ""cellular response to oxidative stress""}}"	ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR12329		PMID:24475098	20140728
+UniProtKB:Q9UKQ2	Disintegrin and metalloproteinase domain-containing protein 28		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11905		GO_REF:0000052	20161204
+UniProtKB:P15538	Cytochrome P450 11B1, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR24279		PMID:2256920	20080811
+UniProtKB:Q6P587	Acylpyruvase FAHD1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11820		GO_REF:0000052	20120912
+UniProtKB:Q6P587	Acylpyruvase FAHD1, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR11820		GO_REF:0000054	20100607
+UniProtKB:Q6P587	Acylpyruvase FAHD1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11820		PMID:21878618	20110914
+UniProtKB:O95299	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10513		GO_REF:0000052	20141106
+UniProtKB:O95298	NADH dehydrogenase [ubiquinone] 1 subunit C2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13099		GO_REF:0000052	20111111
+UniProtKB:Q9UI17	Dimethylglycine dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13847		GO_REF:0000052	20171201
+UniProtKB:P30414	NK-tumor recognition protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11071		GO_REF:0000052	20161204
+UniProtKB:P00156	Cytochrome b		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA				PMID:20833797	20140128
+UniProtKB:P15954	Cytochrome c oxidase subunit 7C, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR13313		PMID:20833797	20140128
+UniProtKB:P27338	Amine oxidase [flavin-containing] B		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR10742		PMID:20833797	20140128
+UniProtKB:Q9NWQ9	Uncharacterized protein C14orf119		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR16260		GO_REF:0000052	20101115
+UniProtKB:P0C0E4	Ras-related protein Rab-40A-like		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24073		PMID:22581972	20130214
+UniProtKB:Q9NWX6	Probable tRNA(His) guanylyltransferase		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR12729		GO_REF:0000054	20100607
+UniProtKB:Q8NF64	Zinc finger MIZ domain-containing protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10782		GO_REF:0000052	20110516
+UniProtKB:O75143	Autophagy-related protein 13		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR13430		PMID:21855797	20141201
+UniProtKB:Q6QNY1	Biogenesis of lysosome-related organelles complex 1 subunit 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10668		PMID:18188704	20130530
+UniProtKB:O75127	Pentatricopeptide repeat-containing protein 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24014		PMID:19651879	20120920
+UniProtKB:O75964	ATP synthase subunit g, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12386		GO_REF:0000052	20151016
+UniProtKB:O75964	ATP synthase subunit g, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR12386		GO_REF:0000054	20100607
+UniProtKB:P12694	2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11516		PMID:20833797	20140128
+UniProtKB:Q96NN9	Apoptosis-inducing factor 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22912		GO_REF:0000052	20101115
+UniProtKB:Q96NN9	Apoptosis-inducing factor 3		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR22912		PMID:15764604	20061212
+UniProtKB:Q9H845	Acyl-CoA dehydrogenase family member 9, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10909		GO_REF:0000052	20131205
+UniProtKB:Q9H845	Acyl-CoA dehydrogenase family member 9, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR10909		GO_REF:0000054	20100607
+UniProtKB:Q9H845	Acyl-CoA dehydrogenase family member 9, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10909		PMID:16020546	20170804
+UniProtKB:Q9H845	Acyl-CoA dehydrogenase family member 9, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10909		PMID:20816094	20141028
+UniProtKB:Q9UPV9	Trafficking kinesin-binding protein 1		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR15751		PMID:15644324	20060104
+UniProtKB:Q9UPV9	Trafficking kinesin-binding protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15751		PMID:18675823	20100322
+UniProtKB:Q9UPV9	Trafficking kinesin-binding protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15751		PMID:19528298	20120509
+UniProtKB:P19367	Hexokinase-1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR19443		GO_REF:0000052	20080818
+UniProtKB:P19367	Hexokinase-1		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR19443		PMID:20833797	20140128
+UniProtKB:P07954	Fumarate hydratase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11444		GO_REF:0000052	20100326
+UniProtKB:P07954	Fumarate hydratase, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11444		PMID:20833797	20140128
+UniProtKB:P30837	Aldehyde dehydrogenase X, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11699		GO_REF:0000052	20101115
+UniProtKB:Q9BPX6	Calcium uptake protein 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12294		GO_REF:0000052	20141106
+UniProtKB:Q9NRD5	PRKCA-binding protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12141		GO_REF:0000052	20161204
+UniProtKB:Q9BQ52	Zinc phosphodiesterase ELAC protein 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12553		PMID:21593607	20130925
+UniProtKB:Q12983	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR32224		PMID:18371312	20101214
+UniProtKB:Q12983	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR32224		PMID:7954800	20060110
+UniProtKB:Q12983	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR32224		PMID:7954800	20060214
+UniProtKB:Q12983	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR32224		PMID:9396766	20060209
+UniProtKB:Q9NSE4	Isoleucine--tRNA ligase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11946		GO_REF:0000052	20101115
+UniProtKB:Q9NRI5	Disrupted in schizophrenia 1 protein		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR14332		PMID:20880836	20120315
+UniProtKB:Q6PCB7	Long-chain fatty acid transport protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24096		GO_REF:0000052	20171201
+UniProtKB:Q9NRY6	Phospholipid scramblase 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23248		GO_REF:0000052	20161204
+UniProtKB:Q9H773	dCTP pyrophosphatase 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14552		PMID:24467396	20170206
+UniProtKB:Q06416	Putative POU domain, class 5, transcription factor 1B		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11636		GO_REF:0000052	20161204
+UniProtKB:Q9NNW7	Thioredoxin reductase 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22912		GO_REF:0000052	20131205
+UniProtKB:Q9NNW7	Thioredoxin reductase 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22912		PMID:10215850	20080626
+UniProtKB:Q16698	2,4-dienoyl-CoA reductase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24315		GO_REF:0000052	20110516
+UniProtKB:P54296	Myomesin-2		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR19900		PMID:20833797	20140128
+UniProtKB:Q16635	Tafazzin		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR12497		PMID:15304507	20080313
+UniProtKB:P49590	Probable histidine--tRNA ligase, mitochondrial		GO:0005739		WormBase	NCBITaxon:9606	IDA		PANTHER:PTHR11476		PMID:21464306	20150511
+UniProtKB:Q16611	Bcl-2 homologous antagonist/killer		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:9843949	20070201
+UniProtKB:Q9UKL3	CASP8-associated protein 2		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:17245429	20130403
+UniProtKB:Q9H2D1	Mitochondrial folate transporter/carrier		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:21956163	20160203
+UniProtKB:Q96HY7	Probable 2-oxoglutarate dehydrogenase E1 component DHKTD1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23152		GO_REF:0000052	20131205
+UniProtKB:Q96HY7	Probable 2-oxoglutarate dehydrogenase E1 component DHKTD1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23152		PMID:23141294	20130611
+UniProtKB:Q96I99	Succinate--CoA ligase [GDP-forming] subunit beta, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11815		GO_REF:0000052	20120912
+UniProtKB:P22314	Ubiquitin-like modifier-activating enzyme 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10953		PMID:1376922	20140430
+UniProtKB:O75746	Calcium-binding mitochondrial carrier protein Aralar1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:11566871	20070124
+UniProtKB:O75746	Calcium-binding mitochondrial carrier protein Aralar1		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR24089		PMID:20833797	20140128
+UniProtKB:O75746	Calcium-binding mitochondrial carrier protein Aralar1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:9722566	20070124
+UniProtKB:P10909	Clusterin		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10970		PMID:16113678	20090603
+UniProtKB:Q96I59	Probable asparagine--tRNA ligase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22594		GO_REF:0000052	20101115
+UniProtKB:Q96I59	Probable asparagine--tRNA ligase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22594		PMID:25807530	20150714
+UniProtKB:O43847	Nardilysin		GO:0005739		FlyBase	NCBITaxon:9606	IDA		PANTHER:PTHR11851		PMID:28017472	20170220
+UniProtKB:P49821	NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11780		GO_REF:0000052	20151016
+UniProtKB:O60238	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32224		GO_REF:0000052	20161204
+UniProtKB:O60238	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR32224		PMID:10381623	20061215
+UniProtKB:O60238	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR32224		PMID:9973195	20060208
+UniProtKB:O60220	Mitochondrial import inner membrane translocase subunit Tim8 A		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21535		GO_REF:0000052	20101115
+UniProtKB:O60220	Mitochondrial import inner membrane translocase subunit Tim8 A		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR21535		PMID:20833797	20140128
+UniProtKB:P25874	Mitochondrial brown fat uncoupling protein 1		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:9054939	20120418
+UniProtKB:Q7Z713	Ankyrin repeat domain-containing protein 37		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24201		GO_REF:0000052	20141106
+UniProtKB:Q9H583	HEAT repeat-containing protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13457		GO_REF:0000052	20161204
+UniProtKB:Q06609	DNA repair protein RAD51 homolog 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22942		PMID:20413593	20100916
+UniProtKB:P19099	Cytochrome P450 11B2, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR24279		PMID:1741400	20080812
+UniProtKB:P19099	Cytochrome P450 11B2, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR24279		PMID:2256920	20080811
+UniProtKB:Q9UMY1	Nucleolar protein 7		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32337		GO_REF:0000052	20101115
+UniProtKB:P86397	Hydroxyacyl-thioester dehydratase type 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13078		GO_REF:0000052	20161204
+UniProtKB:Q9UMX3	Bcl-2-related ovarian killer protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:15102863	20160823
+UniProtKB:Q9UMX3	Bcl-2-related ovarian killer protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:19095301	20110328
+UniProtKB:Q9UMX3	Bcl-2-related ovarian killer protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:19942931	20160822
+UniProtKB:Q16891	MICOS complex subunit MIC60		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15415		GO_REF:0000052	20120912
+UniProtKB:Q16891	MICOS complex subunit MIC60		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR15415		PMID:20833797	20140128
+UniProtKB:Q16891	MICOS complex subunit MIC60		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15415		PMID:25781180	20150615
+UniProtKB:Q16891	MICOS complex subunit MIC60		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15415		PMID:25997101	20150615
+UniProtKB:Q9UMS0	NFU1 iron-sulfur cluster scaffold homolog, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11178		PMID:12886008	20080630
+UniProtKB:Q16836	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23309		GO_REF:0000052	20161204
+UniProtKB:Q16822	Phosphoenolpyruvate carboxykinase [GTP], mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11561		GO_REF:0000052	20151016
+UniProtKB:P05496	ATP synthase F(0) complex subunit C1, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR10031		GO_REF:0000054	20100607
+UniProtKB:P99999	Cytochrome c		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR11961		PMID:20671748	20140218
+UniProtKB:P99999	Cytochrome c		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11961		PMID:20833797	20140128
+UniProtKB:Q9Y2D0	Carbonic anhydrase 5B, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR18952		GO_REF:0000052	20131205
+UniProtKB:Q5JTZ9	Alanine--tRNA ligase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11777		GO_REF:0000052	20151016
+UniProtKB:Q5JTZ9	Alanine--tRNA ligase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11777		PMID:21549344	20110905
+UniProtKB:P22570	NADPH:adrenodoxin oxidoreductase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20141106
+UniProtKB:Q9H1K1	Iron-sulfur cluster assembly enzyme ISCU, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10093		PMID:11060020	20050601
+UniProtKB:Q9H1K1	Iron-sulfur cluster assembly enzyme ISCU, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10093		PMID:26702583	20171102
+UniProtKB:Q9UK32	Ribosomal protein S6 kinase alpha-6		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24351		GO_REF:0000052	20141106
+UniProtKB:P49768	Presenilin-1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10202		PMID:12377771	20040303
+UniProtKB:Q9UBX3	Mitochondrial dicarboxylate carrier		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20101115
+UniProtKB:Q6P5X7	Transmembrane protein 71		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20151016
+UniProtKB:Q8NCD3	Holliday junction recognition protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15992		GO_REF:0000052	20161204
+UniProtKB:Q9Y277	Voltage-dependent anion-selective channel protein 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11743		GO_REF:0000052	20101115
+UniProtKB:Q9Y277	Voltage-dependent anion-selective channel protein 3		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11743		PMID:20833797	20140128
+UniProtKB:Q9Y276	Mitochondrial chaperone BCS1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23070		PMID:18628306	20090209
+UniProtKB:P82933	28S ribosomal protein S9, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21569		GO_REF:0000052	20120912
+UniProtKB:P82930	28S ribosomal protein S34, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32058		GO_REF:0000052	20110516
+UniProtKB:O43715	TP53-regulated inhibitor of apoptosis 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21329		GO_REF:0000052	20130311
+UniProtKB:O43715	TP53-regulated inhibitor of apoptosis 1		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR21329		PMID:15735003	20060228
+UniProtKB:A1A4Y4	Immunity-related GTPase family M protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR32341		PMID:25891078	20170428
+UniProtKB:A1A4Y4	Immunity-related GTPase family M protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR32341		PMID:28389568	20170427
+UniProtKB:Q9H0U6	39S ribosomal protein L18, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR12899		GO_REF:0000054	20100607
+UniProtKB:Q9H0R6	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11895		PMID:19805282	20110818
+UniProtKB:Q9Y2Z9	Ubiquinone biosynthesis monooxygenase COQ6, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR13789		GO_REF:0000054	20100607
+UniProtKB:P00505	Aspartate aminotransferase, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11879		PMID:20833797	20140128
+UniProtKB:P00505	Aspartate aminotransferase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11879		PMID:9537447	20080111
+UniProtKB:P27469	G0/G1 switch protein 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15570		PMID:19706769	20120223
+UniProtKB:Q9H9P8	L-2-hydroxyglutarate dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13847		GO_REF:0000052	20151016
+UniProtKB:Q9H9P8	L-2-hydroxyglutarate dehydrogenase, mitochondrial		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR13847		PMID:16005139	20060404
+UniProtKB:P07203	Glutathione peroxidase 1		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11592		PMID:10833429	20071108
+UniProtKB:O43674	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13178		GO_REF:0000052	20131205
+UniProtKB:Q9Y3B7	39S ribosomal protein L11, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11661		GO_REF:0000052	20161204
+UniProtKB:Q96B77	Transmembrane protein 186		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR13603		GO_REF:0000054	20100607
+UniProtKB:Q9Y3D3	28S ribosomal protein S16, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12919		GO_REF:0000052	20161204
+UniProtKB:Q9Y3D6	Mitochondrial fission 1 protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13247		GO_REF:0000052	20090616
+UniProtKB:Q9Y3D6	Mitochondrial fission 1 protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13247		PMID:17408615	20120918
+UniProtKB:Q9Y3D6	Mitochondrial fission 1 protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13247		PMID:17545159	20121022
+UniProtKB:Q9Y3D6	Mitochondrial fission 1 protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13247		PMID:18782765	20121023
+UniProtKB:Q9Y3D6	Mitochondrial fission 1 protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13247		PMID:19864424	20110929
+UniProtKB:Q9Y3D6	Mitochondrial fission 1 protein		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""CL:0000182"", ""label"": ""hepatocyte""}}"	UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13247		PMID:20451243	20120517
+UniProtKB:Q9Y3D6	Mitochondrial fission 1 protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13247		PMID:21183955	20110929
+UniProtKB:Q9Y3D9	28S ribosomal protein S23, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15925		GO_REF:0000052	20131205
+UniProtKB:Q9H0E9	Bromodomain-containing protein 8		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15398		GO_REF:0000052	20080818
+UniProtKB:Q9Y3E5	Peptidyl-tRNA hydrolase 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12649		GO_REF:0000052	20081203
+UniProtKB:Q9Y3E5	Peptidyl-tRNA hydrolase 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12649		PMID:15006356	20140815
+UniProtKB:Q9Y3E5	Peptidyl-tRNA hydrolase 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IMP		PANTHER:PTHR12649		PMID:22952044	20121019
+UniProtKB:Q9UIJ7	GTP:AMP phosphotransferase AK3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23359		GO_REF:0000052	20151016
+UniProtKB:P17482	Homeobox protein Hox-B9		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24326		GO_REF:0000052	20101115
+UniProtKB:Q9H0C2	ADP/ATP translocase 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20151016
+UniProtKB:Q9H0C2	ADP/ATP translocase 4		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000054	20100607
+UniProtKB:Q9UII2	ATPase inhibitor, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23407		GO_REF:0000052	20101115
+UniProtKB:Q9UII2	ATPase inhibitor, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23407		PMID:12110673	20080414
+UniProtKB:Q9UII2	ATPase inhibitor, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR23407		PMID:20833797	20140128
+UniProtKB:Q9H0B6	Kinesin light chain 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR19959		GO_REF:0000052	20161204
+UniProtKB:Q9H0B3	IQ domain-containing protein N		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR22590		GO_REF:0000054	20100607
+UniProtKB:Q5T440	Putative transferase CAF17, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22602		GO_REF:0000052	20161204
+UniProtKB:Q9NVV4	Poly(A) RNA polymerase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12271		GO_REF:0000052	20141106
+UniProtKB:Q96QK1	Vacuolar protein sorting-associated protein 35	colocalizes_with	GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11099		PMID:26618722	20161005
+UniProtKB:Q13084	39S ribosomal protein L28, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13528		GO_REF:0000052	20101115
+UniProtKB:O15121	Sphingolipid delta(4)-desaturase DES1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12879		GO_REF:0000052	20161204
+UniProtKB:P12931	Proto-oncogene tyrosine-protein kinase Src		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24418		PMID:19767770	20131125
+UniProtKB:Q01664	Transcription factor AP-4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15741		GO_REF:0000052	20161204
+UniProtKB:Q96QE5	Transcription elongation factor, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21053		GO_REF:0000052	20120912
+UniProtKB:Q9BT92	Trichoplein keratin filament-binding protein		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR31183		PMID:18931701	20101108
+UniProtKB:Q9NVI7	ATPase family AAA domain-containing protein 3A		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23075		GO_REF:0000052	20141106
+UniProtKB:Q9NVI7	ATPase family AAA domain-containing protein 3A		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23075		PMID:20332122	20111221
+UniProtKB:Q9NVH6	Trimethyllysine dioxygenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10696		GO_REF:0000052	20131205
+UniProtKB:Q9NVH1	DnaJ homolog subfamily C member 11		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24078		PMID:25997101	20150615
+UniProtKB:Q96Q83	Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31212		GO_REF:0000052	20101115
+UniProtKB:P29803	Pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11516		GO_REF:0000052	20161204
+UniProtKB:P56181	NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR17117		GO_REF:0000052	20100326
+UniProtKB:P56181	NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR17117		PMID:20833797	20140128
+UniProtKB:Q9BSH4	Translational activator of cytochrome c oxidase 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12532		GO_REF:0000052	20131205
+UniProtKB:O15091	Mitochondrial ribonuclease P catalytic subunit		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13547		GO_REF:0000052	20151016
+UniProtKB:Q96Q11	CCA tRNA nucleotidyltransferase 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13734		GO_REF:0000052	20110516
+UniProtKB:Q96Q11	CCA tRNA nucleotidyltransferase 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13734		PMID:11504732	20031216
+UniProtKB:O43677	NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR17097		GO_REF:0000052	20111111
+UniProtKB:O75521	Enoyl-CoA delta isomerase 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11941		GO_REF:0000052	20130311
+UniProtKB:O75521	Enoyl-CoA delta isomerase 2, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR11941		GO_REF:0000054	20100607
+UniProtKB:O43615	Mitochondrial import inner membrane translocase subunit TIM44		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10721		GO_REF:0000052	20110516
+UniProtKB:Q96BF6	Nucleus accumbens-associated protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23228		GO_REF:0000052	20131205
+UniProtKB:Q6UB35	Monofunctional C1-tetrahydrofolate synthase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10025		GO_REF:0000052	20161204
+UniProtKB:Q6UB35	Monofunctional C1-tetrahydrofolate synthase, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10025		PMID:12937168	20090720
+UniProtKB:P27695	DNA-(apurinic or apyrimidinic site) lyase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22748		PMID:20231292	20101013
+UniProtKB:P52815	39S ribosomal protein L12, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20100326
+UniProtKB:P52815	39S ribosomal protein L12, mitochondrial		GO:0005739		HGNC	NCBITaxon:9606	IDA				PMID:17337445	20071018
+UniProtKB:Q6UB28	Methionine aminopeptidase 1D, mitochondrial		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR10804		PMID:14532271	20060324
+UniProtKB:Q9H061	Transmembrane protein 126A		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR16296		GO_REF:0000054	20100607
+UniProtKB:Q9H061	Transmembrane protein 126A		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16296		PMID:19327736	20100225
+UniProtKB:P00480	Ornithine carbamoyltransferase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11405		GO_REF:0000052	20101115
+UniProtKB:P00480	Ornithine carbamoyltransferase, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11405		PMID:3472484	20140117
+UniProtKB:P00480	Ornithine carbamoyltransferase, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11405		PMID:6372096	20140117
+UniProtKB:P32322	Pyrroline-5-carboxylate reductase 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11645		PMID:19648921	20090901
+UniProtKB:P32322	Pyrroline-5-carboxylate reductase 1, mitochondrial		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR11645		PMID:23743200	20140703
+UniProtKB:P00367	Glutamate dehydrogenase 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11606		GO_REF:0000052	20161204
+UniProtKB:P00367	Glutamate dehydrogenase 1, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11606		PMID:15578726	20060424
+UniProtKB:Q9UHV9	Prefoldin subunit 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13303		PMID:17936702	20111209
+UniProtKB:Q9H015	Solute carrier family 22 member 4		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR24064		PMID:16729965	20071224
+UniProtKB:P00441	Superoxide dismutase [Cu-Zn]		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10003		PMID:16790527	20070809
+UniProtKB:P00441	Superoxide dismutase [Cu-Zn]		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10003		PMID:19741096	20161021
+UniProtKB:Q5JRX3	Presequence protease, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11851		GO_REF:0000052	20080818
+UniProtKB:O43716	Glutamyl-tRNA(Gln) amidotransferase subunit C, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15004		PMID:19805282	20110818
+UniProtKB:Q96BP2	Coiled-coil-helix-coiled-coil-helix domain-containing protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31278		GO_REF:0000052	20161204
+UniProtKB:Q5VT66	Mitochondrial amidoxime-reducing component 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14237		GO_REF:0000052	20161204
+UniProtKB:Q9Y5U8	Mitochondrial pyruvate carrier 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14154		GO_REF:0000052	20120912
+UniProtKB:O95202	Mitochondrial proton/calcium exchanger protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14009		GO_REF:0000052	20081203
+UniProtKB:Q14457	Beclin-1	colocalizes_with	GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR12768		PMID:23878393	20150216
+UniProtKB:P25705	ATP synthase subunit alpha, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR15184		PMID:20833797	20140128
+UniProtKB:Q9NP58	ATP-binding cassette sub-family B member 6, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24221		GO_REF:0000052	20161204
+UniProtKB:Q9NP58	ATP-binding cassette sub-family B member 6, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24221		PMID:10837493	20040809
+UniProtKB:Q9NP58	ATP-binding cassette sub-family B member 6, mitochondrial	not	GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24221		PMID:18279659	20100806
+UniProtKB:P35914	Hydroxymethylglutaryl-CoA lyase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10277		PMID:9869651	20111208
+UniProtKB:Q9ULX9	Transcription factor MafF		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10129		GO_REF:0000052	20131205
+UniProtKB:Q9ULZ3	Apoptosis-associated speck-like protein containing a CARD		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10454		PMID:14730312	20120910
+UniProtKB:O95182	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12485		GO_REF:0000052	20131205
+UniProtKB:O95169	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12840		GO_REF:0000052	20080818
+UniProtKB:O95168	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15469		GO_REF:0000052	20161204
+UniProtKB:O95168	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR15469		PMID:20833797	20140128
+UniProtKB:O95167	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR15221		PMID:20833797	20140128
+UniProtKB:O95153	Peripheral-type benzodiazepine receptor-associated protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14234		PMID:9915832	20010822
+UniProtKB:Q96C03	Mitochondrial dynamics protein MID49		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16451		PMID:23921378	20130909
+UniProtKB:Q9UHQ9	NADH-cytochrome b5 reductase 1		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR19370		PMID:20833797	20140128
+UniProtKB:Q9UI32	Glutaminase liver isoform, mitochondrial		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR12544		PMID:20351271	20120419
+UniProtKB:Q8NEJ9	Neuroguidin		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13237		GO_REF:0000052	20131205
+UniProtKB:Q9Y6E7	NAD-dependent protein lipoamidase sirtuin-4, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11085		PMID:16079181	20090902
+UniProtKB:P59103	D-amino acid oxidase activator		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:21679769	20120530
+UniProtKB:Q9Y255	PRELI domain-containing protein 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11158		GO_REF:0000052	20100326
+UniProtKB:P82914	28S ribosomal protein S15, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23321		GO_REF:0000052	20161204
+UniProtKB:P82912	28S ribosomal protein S11, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11759		GO_REF:0000052	20130311
+UniProtKB:Q9Y241	HIG1 domain family member 1A, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12297		GO_REF:0000052	20111111
+UniProtKB:P82909	28S ribosomal protein S36, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31601		GO_REF:0000052	20131205
+UniProtKB:Q96I36	Cytochrome c oxidase assembly protein COX14		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20111111
+UniProtKB:Q96I36	Cytochrome c oxidase assembly protein COX14		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:22243966	20120120
+UniProtKB:Q96I36	Cytochrome c oxidase assembly protein COX14		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:22356826	20120503
+UniProtKB:Q96HS1	Serine/threonine-protein phosphatase PGAM5, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR20935		GO_REF:0000052	20130311
+UniProtKB:Q9HCU8	DNA polymerase delta subunit 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14303		GO_REF:0000052	20151016
+UniProtKB:P48047	ATP synthase subunit O, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11910		PMID:12110673	20080414
+UniProtKB:P48047	ATP synthase subunit O, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11910		PMID:17851741	20080414
+UniProtKB:P48047	ATP synthase subunit O, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11910		PMID:20833797	20140128
+UniProtKB:P36639	7,8-dihydro-8-oxoguanine triphosphatase		GO:0005739		UniProt	NCBITaxon:9606	IDA				PMID:12857738	20130522
+UniProtKB:Q9HD36	Bcl-2-like protein 10		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:11278245	20070302
+UniProtKB:Q9HD23	Magnesium transporter MRS2 homolog, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13890		PMID:11401429	20160304
+UniProtKB:O00217	NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10849		PMID:9666055	20070301
+UniProtKB:Q92667	A-kinase anchor protein 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12727		GO_REF:0000052	20141106
+UniProtKB:Q92665	28S ribosomal protein S31, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13231		GO_REF:0000052	20131205
+UniProtKB:P26678	Cardiac phospholamban		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR21194		PMID:20833797	20140128
+UniProtKB:Q15398	Disks large-associated protein 5		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12353		GO_REF:0000052	20161204
+UniProtKB:Q15390	Mitochondrial fission regulator 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR14215		GO_REF:0000052	20131205
+UniProtKB:Q15388	Mitochondrial import receptor subunit TOM20 homolog		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12430		GO_REF:0000052	20080818
+UniProtKB:Q15388	Mitochondrial import receptor subunit TOM20 homolog		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR12430		PMID:25327288	20160831
+UniProtKB:Q15303	Receptor tyrosine-protein kinase erbB-4		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24416		PMID:16778220	20111109
+UniProtKB:O00483	Cytochrome c oxidase subunit NDUFA4		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR14256		PMID:16729965	20071224
+UniProtKB:P24752	Acetyl-CoA acetyltransferase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR18919		GO_REF:0000052	20080818
+UniProtKB:Q6IN84	rRNA methyltransferase 1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12029		GO_REF:0000052	20100326
+UniProtKB:P53597	Succinate--CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11117		GO_REF:0000052	20110516
+UniProtKB:Q15916	Zinc finger and BTB domain-containing protein 6		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23228		GO_REF:0000052	20161204
+UniProtKB:P28331	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11615		GO_REF:0000052	20141106
+UniProtKB:Q9HB07	UPF0160 protein MYG1, mitochondrial		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR11215		PMID:19014353	20130701
+UniProtKB:P51398	28S ribosomal protein S29, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12810		GO_REF:0000052	20161204
+UniProtKB:P51398	28S ribosomal protein S29, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12810		PMID:20563667	20110524
+UniProtKB:Q86UV5	Ubiquitin carboxyl-terminal hydrolase 48		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24006		GO_REF:0000052	20131205
+UniProtKB:Q6IPR1	Electron transfer flavoprotein regulatory factor 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21024		PMID:27499296	20160923
+UniProtKB:Q8TB37	Iron-sulfur protein NUBPL		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23264		GO_REF:0000052	20161204
+UniProtKB:Q8TB37	Iron-sulfur protein NUBPL		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR23264		PMID:19752196	20100815
+UniProtKB:Q8TB36	Ganglioside-induced differentiation-associated protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11260		GO_REF:0000052	20131205
+UniProtKB:Q86UT6	NLR family member X1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24106		GO_REF:0000052	20151016
+UniProtKB:Q8N3R3	T-cell activation inhibitor, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR31596		GO_REF:0000054	20100607
+UniProtKB:Q7Z434	Mitochondrial antiviral-signaling protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21446		GO_REF:0000052	20120912
+UniProtKB:Q8N3J5	Protein phosphatase 1K, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13832		GO_REF:0000052	20100326
+UniProtKB:Q5TGZ0	MICOS complex subunit MIC10		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21304		GO_REF:0000052	20131205
+UniProtKB:Q5TGZ0	MICOS complex subunit MIC10		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR21304		PMID:20833797	20140128
+UniProtKB:G3V3G9	Uncharacterized protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15574		GO_REF:0000052	20161204
+UniProtKB:Q9ULZ2	Signal-transducing adaptor protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16186		PMID:17936702	20111209
+UniProtKB:Q9NXA8	NAD-dependent protein deacylase sirtuin-5, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11085		GO_REF:0000052	20101115
+UniProtKB:Q9NXA8	NAD-dependent protein deacylase sirtuin-5, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR11085		GO_REF:0000054	20100607
+UniProtKB:Q9NXA8	NAD-dependent protein deacylase sirtuin-5, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11085		PMID:16079181	20090902
+UniProtKB:Q9NXA8	NAD-dependent protein deacylase sirtuin-5, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11085		PMID:23806337	20131202
+UniProtKB:P56385	ATP synthase subunit e, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12427		GO_REF:0000052	20101115
+UniProtKB:Q9GZY8	Mitochondrial fission factor		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR16501		GO_REF:0000052	20151016
+UniProtKB:P49753	Acyl-coenzyme A thioesterase 2, mitochondrial		GO:0005739		HGNC	NCBITaxon:9606	IDA		PANTHER:PTHR32437		PMID:16940157	20061213
+UniProtKB:Q9NPH0	Lysophosphatidic acid phosphatase type 6		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11567		PMID:10506173	20130911
+UniProtKB:P22557	5-aminolevulinate synthase, erythroid-specific, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13693		PMID:10727444	20061003
+UniProtKB:P49748	Very long-chain specific acyl-CoA dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10909		GO_REF:0000052	20131205
+UniProtKB:P10109	Adrenodoxin, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23426		GO_REF:0000052	20141106
+UniProtKB:Q9H4B0	Probable tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11735		GO_REF:0000052	20101115
+UniProtKB:Q96JX3	Protein SERAC1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22731		PMID:22683713	20171114
+UniProtKB:O75131	Copine-3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10857		GO_REF:0000052	20101115
+UniProtKB:O75947	ATP synthase subunit d, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12700		GO_REF:0000052	20171201
+UniProtKB:O75947	ATP synthase subunit d, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR12700		PMID:20833797	20140128
+UniProtKB:P39748	Flap endonuclease 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11081		PMID:18995831	20090626
+UniProtKB:Q9NS18	Glutaredoxin-2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10168		PMID:11297543	20031216
+UniProtKB:Q9NS18	Glutaredoxin-2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10168		PMID:11397793	20031216
+UniProtKB:O75390	Citrate synthase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11739		GO_REF:0000052	20110516
+UniProtKB:O75390	Citrate synthase, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11739		PMID:20833797	20140128
+UniProtKB:O43837	Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11835		GO_REF:0000052	20131205
+UniProtKB:O43822	Protein C21orf2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR18849		PMID:9325172	20160404
+UniProtKB:O43819	Protein SCO2 homolog, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12151		GO_REF:0000052	20171201
+UniProtKB:Q9Y5Y0	Feline leukemia virus subgroup C receptor-related protein 1		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR10924		PMID:23187127	20130610
+UniProtKB:Q9Y606	tRNA pseudouridine synthase A		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11142		GO_REF:0000052	20141106
+UniProtKB:Q9UGC7	Peptide chain release factor 1-like, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR11075		GO_REF:0000054	20100607
+UniProtKB:Q9Y5L4	Mitochondrial import inner membrane translocase subunit Tim13		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR19338		GO_REF:0000052	20161204
+UniProtKB:Q9Y5K5	Ubiquitin carboxyl-terminal hydrolase isozyme L5		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10589		GO_REF:0000052	20161204
+UniProtKB:P17152	Transmembrane protein 11, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR15099		GO_REF:0000052	20151016
+UniProtKB:P10415	Apoptosis regulator Bcl-2		GO:0005739		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:7896880	20090324
+UniProtKB:P10415	Apoptosis regulator Bcl-2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11256		PMID:9027314	20070305
+UniProtKB:Q5JPH6	Probable glutamate--tRNA ligase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10119		PMID:19805282	20110818
+UniProtKB:Q96CU9	FAD-dependent oxidoreductase domain-containing protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13847		GO_REF:0000052	20141106
+UniProtKB:Q96CU9	FAD-dependent oxidoreductase domain-containing protein 1		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR13847		GO_REF:0000054	20100607
+UniProtKB:Q96CU9	FAD-dependent oxidoreductase domain-containing protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13847		PMID:20858599	20150324
+UniProtKB:Q9UGM6	Tryptophan--tRNA ligase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10055		GO_REF:0000052	20161204
+UniProtKB:Q96EB6	NAD-dependent protein deacetylase sirtuin-1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11085		GO_REF:0000052	20131205
+UniProtKB:Q96EH3	Mitochondrial assembly of ribosomal large subunit protein 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21043		GO_REF:0000052	20120912
+UniProtKB:Q96EH3	Mitochondrial assembly of ribosomal large subunit protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21043		PMID:16548050	20110815
+UniProtKB:Q96EH3	Mitochondrial assembly of ribosomal large subunit protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR21043		PMID:22238376	20120203
+UniProtKB:Q04837	Single-stranded DNA-binding protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10302		GO_REF:0000052	20080205
+UniProtKB:O95847	Mitochondrial uncoupling protein 4		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20151016
+UniProtKB:O95847	Mitochondrial uncoupling protein 4		GO:0005739		GO_Central	NCBITaxon:9606	IDA		PANTHER:PTHR24089		PMID:10025957	20170116
+UniProtKB:O95831	Apoptosis-inducing factor 1, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR22912		PMID:20833797	20140128
+UniProtKB:O95822	Malonyl-CoA decarboxylase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR32032		PMID:10417274	20130610
+UniProtKB:Q5XKP0	MICOS complex subunit MIC13		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR31816		GO_REF:0000052	20161204
+UniProtKB:Q9Y6H1	Coiled-coil-helix-coiled-coil-helix domain-containing protein 2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13523		GO_REF:0000052	20120912
+UniProtKB:Q9Y6H1	Coiled-coil-helix-coiled-coil-helix domain-containing protein 2		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13523		PMID:25662902	20160613
+UniProtKB:P17252	Protein kinase C alpha type		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR24357		PMID:20833797	20140128
+UniProtKB:Q9Y6G3	39S ribosomal protein L42, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13450		GO_REF:0000052	20110516
+UniProtKB:P10515	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23151		GO_REF:0000052	20141106
+UniProtKB:P10515	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR23151		PMID:20833797	20140128
+UniProtKB:O75323	Protein NipSnap homolog 2		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR21017		GO_REF:0000054	20100607
+UniProtKB:O75323	Protein NipSnap homolog 2		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR21017		PMID:20833797	20140128
+UniProtKB:O43464	Serine protease HTRA2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR22939		GO_REF:0000052	20161204
+UniProtKB:O43464	Serine protease HTRA2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR22939		PMID:11583623	20111115
+UniProtKB:O43464	Serine protease HTRA2, mitochondrial		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR22939		PMID:11602612	20140214
+UniProtKB:O43464	Serine protease HTRA2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IMP		PANTHER:PTHR22939		PMID:11604410	20120123
+UniProtKB:Q96DA6	Mitochondrial import inner membrane translocase subunit TIM14		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12763		PMID:12592411	20071001
+UniProtKB:O75306	NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11993		GO_REF:0000052	20120912
+UniProtKB:O75306	NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11993		PMID:9585441	20070221
+UniProtKB:P47985	Cytochrome b-c1 complex subunit Rieske, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10134		GO_REF:0000052	20111111
+UniProtKB:P47985	Cytochrome b-c1 complex subunit Rieske, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR10134		PMID:20833797	20140128
+UniProtKB:Q9NPA8	Transcription and mRNA export factor ENY2		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12514		GO_REF:0000052	20101115
+UniProtKB:Q9H3Z4	DnaJ homolog subfamily C member 5		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR24078		PMID:20833797	20140128
+UniProtKB:P0C7Q2	Age-related maculopathy susceptibility protein 2		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA				PMID:18511946	20100104
+UniProtKB:Q6IC98	GRAM domain-containing protein 4		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR16122		PMID:15565177	20170714
+UniProtKB:Q16795	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12126		GO_REF:0000052	20151016
+UniProtKB:P12236	ADP/ATP translocase 3		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20151016
+UniProtKB:P12236	ADP/ATP translocase 3		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR24089		PMID:20833797	20140128
+UniProtKB:P12235	ADP/ATP translocase 1		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24089		GO_REF:0000052	20151016
+UniProtKB:P12235	ADP/ATP translocase 1		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR24089		PMID:20833797	20140128
+UniProtKB:Q16762	Thiosulfate sulfurtransferase		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11364		GO_REF:0000052	20080818
+UniProtKB:Q3ZCQ8	Mitochondrial import inner membrane translocase subunit TIM50		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20141106
+UniProtKB:Q9H3L0	Methylmalonic aciduria and homocystinuria type D protein, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13192		PMID:23270877	20160629
+UniProtKB:Q16740	ATP-dependent Clp protease proteolytic subunit, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR10381		GO_REF:0000052	20080818
+UniProtKB:Q9H3K2	Growth hormone-inducible transmembrane protein		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23291		GO_REF:0000052	20151016
+UniProtKB:Q16719	Kynureninase		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR14084		PMID:6468727	20080623
+UniProtKB:P49662	Caspase-4		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR10454		PMID:15123740	20150226
+UniProtKB:P40926	Malate dehydrogenase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11540		GO_REF:0000052	20161204
+UniProtKB:P40926	Malate dehydrogenase, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11540		PMID:16740313	20080519
+UniProtKB:P40926	Malate dehydrogenase, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11540		PMID:20833797	20140128
+UniProtKB:O75879	Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11659		GO_REF:0000052	20110516
+UniProtKB:O75879	Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR11659		PMID:19805282	20110818
+UniProtKB:O75208	Ubiquinone biosynthesis protein COQ9, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR21427		PMID:20833797	20140128
+UniProtKB:Q96IX5	Up-regulated during skeletal muscle growth protein 5		GO:0005739		HPA	NCBITaxon:9606	IDA				GO_REF:0000052	20151016
+UniProtKB:Q9ULC5	Long-chain-fatty-acid--CoA ligase 5		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR24096		GO_REF:0000052	20101115
+UniProtKB:O75807	Protein phosphatase 1 regulatory subunit 15A		GO:0005739		ParkinsonsUK-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR16489		PMID:21518769	20141030
+UniProtKB:O43920	NADH dehydrogenase [ubiquinone] iron-sulfur protein 5		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR15224		PMID:16826196	20070226
+UniProtKB:P15822	Zinc finger protein 40		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23233		GO_REF:0000052	20161204
+UniProtKB:Q9UDR5	Alpha-aminoadipic semialdehyde synthase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11133		GO_REF:0000052	20101115
+UniProtKB:O95571	Persulfide dioxygenase ETHE1, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11935		GO_REF:0000052	20101115
+UniProtKB:P42126	Enoyl-CoA delta isomerase 1, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR11941		PMID:20833797	20140128
+UniProtKB:O95563	Mitochondrial pyruvate carrier 2		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR14154		GO_REF:0000054	20100607
+UniProtKB:Q8NE86	Calcium uniporter protein, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13462		GO_REF:0000052	20090616
+UniProtKB:Q9Y3E2	BolA-like protein 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR12735		PMID:22746225	20170207
+UniProtKB:Q9Y3A0	Ubiquinone biosynthesis protein COQ4 homolog, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR12922		GO_REF:0000052	20161204
+UniProtKB:Q9Y3A0	Ubiquinone biosynthesis protein COQ4 homolog, mitochondrial		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR12922		GO_REF:0000054	20100607
+UniProtKB:P40939	Trifunctional enzyme subunit alpha, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23309		GO_REF:0000052	20130311
+UniProtKB:P40939	Trifunctional enzyme subunit alpha, mitochondrial		GO:0005739	"{""relationship"": {""relation"": [{""id"": ""BFO:0000050"", ""label"": ""part_of""}], ""id"": ""UBERON:0001134"", ""label"": ""skeletal muscle tissue""}}"	UniProt	NCBITaxon:9606	HDA		PANTHER:PTHR23309		PMID:20833797	20140128
+UniProtKB:Q96AN5	Transmembrane protein 143		GO:0005739		LIFEdb	NCBITaxon:9606	IDA		PANTHER:PTHR16095		GO_REF:0000054	20100607
+UniProtKB:P52306	Rap1 GTPase-GDP dissociation stimulator 1		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR10957		PMID:24349085	20140603
+UniProtKB:Q9Y2Z4	Tyrosine--tRNA ligase, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR11766		GO_REF:0000052	20161204
+UniProtKB:P27144	Adenylate kinase 4, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR23359		GO_REF:0000052	20130311
+UniProtKB:P27144	Adenylate kinase 4, mitochondrial		GO:0005739		BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR23359		PMID:19766732	20120528
+UniProtKB:Q96AG3	Solute carrier family 25 member 46		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR21252		GO_REF:0000052	20151016
+UniProtKB:Q9Y2S7	Polymerase delta-interacting protein 2		GO:0005739		LIFEdb	NCBITaxon:9606	IDA				GO_REF:0000054	20100607
+UniProtKB:Q9Y2R0	Cytochrome c oxidase assembly factor 3 homolog, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR32229		GO_REF:0000052	20110516
+UniProtKB:Q9Y2Q9	28S ribosomal protein S28, mitochondrial		GO:0005739		HPA	NCBITaxon:9606	IDA		PANTHER:PTHR13447		GO_REF:0000052	20100326
+UniProtKB:Q96H55	Unconventional myosin-XIX		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13140		PMID:23568824	20170530
+UniProtKB:Q96H55	Unconventional myosin-XIX		GO:0005739		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR13140		PMID:25447992	20170530
