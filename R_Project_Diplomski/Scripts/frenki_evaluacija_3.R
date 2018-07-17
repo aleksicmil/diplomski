@@ -28,6 +28,7 @@ radni.cisto <- radni[!(radni$UniProt %in% radni.cafa$UniProt), ]
 
 # Frenki predikcije. Izdvojeni proteini za koje je predvidjeno 
 # da su mito (3163)
+
 frenki <- read.table("Data/FRENKI_predikcije_mapirano.txt", 
                      header = T, 
                      sep = "\t")
@@ -35,7 +36,6 @@ frenki.mito <- frenki[frenki$Predikcija == go, ]
 frenki.mito$UniProt <- droplevels(frenki.mito)$UniProt
 write.table(frenki.mito, "Data/frenki.mito.txt", quote = F, col.names = T, 
             row.names = F, sep = "\t")
-
 # _________________________________________________________________________
 
 # CISCENJE FRENKI.MITO
@@ -89,6 +89,20 @@ rec <- tp/(tp+fn) # 0.155
 f <- 2*prec*rec/(prec+rec) # 0.063
 
 # ___________________________________________
+
+# Pisanje resenja
+
+write.table(f.tp, "Data/frenki_tp.txt", row.names = F, col.names = T, 
+            quote = F, sep =  "\t")
+write.table(f.fp, "Data/frenki_fp.txt", row.names = F, col.names = T, 
+            quote = F, sep =  "\t")
+
+
+# Crtanje dijagrama
+
+draw.pairwise.venn(710, 2762, 110, 
+                   category = c("FRENKI predikije", "IMPI - CAFA"), 
+                   scaled = T, inverted = T)
 
 # Priprema fajlova za poredjenja algoritama
 
