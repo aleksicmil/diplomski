@@ -15,19 +15,20 @@ cafa.mito <- cafa[cafa$Predikcija == go, ]
 names(cafa.mito) <- c("UniProt", "Predikcija")
 rm(cafa)
 
-# Radni dataset, proteini iz IMPI-ja koji nisu u CAFA training datasetu (2827)
+# Radni dataset, proteini iz IMPI-ja koji nisu u CAFA 
+# training datasetu (1547)
 radni <- read.table("Data/impi_proteini_reviewed.tab", sep = "\t", 
                     header = T)
 names(radni) <- c("Gen", "UniProt")
 # nema duplikata
 
-# CIscenje radnog od kafe
+# CIscenje radnog od kafe (710 novi radni impi minus cafa)
 radni.cafa <- as.data.frame(intersect(radni$UniProt, cafa.mito$UniProt))
 names(radni.cafa) <- c("UniProt")
 radni.cisto <- radni[!(radni$UniProt %in% radni.cafa$UniProt), ]
 
 # Frenki predikcije. Izdvojeni proteini za koje je predvidjeno 
-# da su mito (3163)
+# da su mito (3163, a kada se ocisti kao dole u kodu ostaje 24762 predikcija)
 
 frenki <- read.table("Data/FRENKI_predikcije_mapirano.txt", 
                      header = T, 

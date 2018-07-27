@@ -46,6 +46,7 @@ f <- 2*prec*rec/(prec+rec) #0.67
 # ____________________________________________________________________________
 
 # Koliko je precizan premo onima koji u GO nisu obelezeni terminom GO:0005739
+# Novi radni ima 930 proteina
 
 go <- read.table("Data/GO_mitochondrion.txt", header = F, sep = "\t")
 
