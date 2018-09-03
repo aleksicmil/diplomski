@@ -5,6 +5,7 @@
 # UCITAVANJE DATASETOVA
 
 # Gene ontology - mitochondrion
+
 go <- "GO:0005739"
 
 # Ucitavanje CAFA trening seta. Vadjenje samo mito proteina. (4675)
@@ -14,6 +15,8 @@ names(cafa) <- c("UniProt", "Predikcija")
 cafa.mito <- cafa[cafa$Predikcija == go, ]
 names(cafa.mito) <- c("UniProt", "Predikcija")
 rm(cafa)
+write.table(cafa.mito, "Data/FINALNO/cafa_trening_mito.txt", sep = "\t", 
+            row.names = F, col.names = T, quote = F)
 
 # Radni dataset, proteini iz IMPI-ja koji nisu u CAFA 
 # training datasetu (1547)
@@ -35,8 +38,6 @@ frenki <- read.table("Data/FRENKI_predikcije_mapirano.txt",
                      sep = "\t")
 frenki.mito <- frenki[frenki$Predikcija == go, ]
 frenki.mito$UniProt <- droplevels(frenki.mito)$UniProt
-write.table(frenki.mito, "Data/frenki.mito.txt", quote = F, col.names = T, 
-            row.names = F, sep = "\t")
 # _________________________________________________________________________
 
 # CISCENJE FRENKI.MITO
@@ -56,6 +57,9 @@ presek <- as.data.frame(intersect(frenki.mito$UniProt, cafa.mito$UniProt))
 names(presek) <- c("UniProt")
 
 frenki.mito <- frenki.mito[!(frenki.mito$UniProt %in% cafa.mito$UniProt), ]
+
+write.table(frenki.mito, "Data/FINALNO/frenki_pred_finalno.txt", quote = F, 
+            col.names = T, row.names = F, sep = "\t")
 
 #__________________________________________________________________________
 
